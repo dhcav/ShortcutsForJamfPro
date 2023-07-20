@@ -18,7 +18,7 @@ Just want to clearly state that I'm not happy about having to encode Jamf Pro cr
 
 Until there is a Jamf Shortcuts app to provide auth via approved Actions this is the simplest way. I have devised a system using the Data Jar app to store credentials and Jamf server info outside of the shortcut itself (which incidentally supports multiple servers and accounts under each) but this approach requires reasonably advanced Shortcuts knowledge so will be released sometime in future. 
 
-*** Unless you have customised one of my Shortcuts to your environment and are sharing within your team, I strongly suggest you share via this GitHub page to reduce the chance of inadvertantly sharing your Jamf API account's credentials! ***
+***Unless you have customised one of my Shortcuts to your environment and are sharing within your team, I strongly suggest you share via this GitHub page to reduce the chance of inadvertantly sharing your Jamf API account's credentials!***
 
 
 ### Troubleshooting & Known Issues:
