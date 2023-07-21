@@ -1,5 +1,5 @@
 # ShortcutsForJamfPro
-A collection of Shortcuts for iOS, iPadOS and macOS to be used with Jamf Pro. 
+A collection of Shortcuts for iOS, iPadOS, macOS and even sometimes watchOS to be used with Jamf Pro. 
 
 
 ## Notes
