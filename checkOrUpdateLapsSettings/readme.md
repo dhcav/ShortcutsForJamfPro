@@ -6,7 +6,7 @@ This Shortcut retrieves the current LAPS configuration and displays to user, and
 
 This functionality was introduced in Jamf Pro 10.46 but is not yet supported in the GUI, so using this Shortcut is a simple way to enable this excellent feature without knowing how to make curl commands in Terminal (or using other API tools). 
 
-After running this Shortcut, use my getLapsPassword-Webpage Shortcut to retrieve the password for a given Mac (https://github.com/dhcav/ShortcutsForJamfPro/blob/main/getLapsPassword-Webpage/getLapsPassword-WebPage.jpa.mac.mm.shortcut).
+After running this Shortcut, use my [getLapsPassword-Webpage](https://github.com/dhcav/ShortcutsForJamfPro/blob/main/getLapsPassword-Webpage/getLapsPassword-WebPage.jpa.mac.mm.shortcut) Shortcut to retrieve the password for a given Mac.
 
 ## Device Compatibility: 
 - iPhone: Yes
