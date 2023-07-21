@@ -8,12 +8,12 @@ This functionality was introduced in Jamf Pro 10.46 but is not yet supported in 
 
 After running this Shortcut, use my [getLapsPassword-Webpage](https://github.com/dhcav/ShortcutsForJamfPro/blob/main/getLapsPassword-Webpage/getLapsPassword-WebPage.jpa.mac.mm.shortcut) Shortcut to retrieve the password for a given Mac.
 
-## Device Compatibility: 
+## Device Compatibility
 - iPhone: Yes
 - iPad: Yes
 - Mac: Yes
 - Apple Watch: Yes
 
-## Notes:
+## Notes
 - requires Jamf Pro version 10.46
 - if the Import Questions don’t work, the Shortcut will fail - be sure to check the correct fields below have been populated if you encounter an error on first run
