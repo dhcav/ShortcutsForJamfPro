@@ -1,6 +1,6 @@
 # getLapsPassword-Webpage
 
-Created by Damian Cavanagh in June 2023
+*Created by Damian Cavanagh in June 2023*
 
 This Shortcut will return a Mac's LAPS account and password by extracting its ID from the Jamf Pro URL (when viewing in browser). 
 
