@@ -22,7 +22,7 @@ Until there is a Jamf Shortcuts app to provide auth via approved Actions this is
 
 
 ### Troubleshooting & Known Issues:
-Shortcuts can at times be a capricious little beast, so if encountering an issue try quitting and reopening tha app, and restarting if it persists. Aside from that:
+Shortcuts can at times be a capricious little beast, so if encountering an issue try quitting and reopening the app, and restarting if it persists. Aside from that:
 - Ensure you have populated your credentials in the correct fields. I attempt to use the 'Import Questions' feature to request this on first installing the Shortcut but know this doesn't always happen
 - Jamf Pro user accounts using federated auth (e.g. Azure AD) are not currently supported. Working on this currently as this may faciliate a better approach to security
 
