@@ -1,6 +1,8 @@
 # checkOrUpdateLapsSettings
 
-*Created by Damian Cavanagh in June 2023.*
+*Created by Damian Cavanagh in July 2023.*
+
+***If reading in Shortcut itself: Please scroll this comment to ensure you’ve read all notes*** 
 
 This Shortcut retrieves the current LAPS configuration and displays to user, and provides the ability to modify any or all or the values or retain current settings.
 
@@ -8,12 +10,12 @@ This functionality was introduced in Jamf Pro 10.46 but is not yet supported in 
 
 After running this Shortcut, use my [getLapsPassword-Webpage](https://github.com/dhcav/ShortcutsForJamfPro/blob/main/getLapsPassword-Webpage/getLapsPassword-WebPage.jpa.mac.mm.shortcut) Shortcut to retrieve the password for a given Mac.
 
-## Device Compatibility
-- iPhone: Yes
-- iPad: Yes
-- Mac: Yes
-- Apple Watch: Yes
+## Device/OS Compatibility: 
+- iPhone: ✅ (iOS 16)
+- iPad: ✅ (iPadOS 16)
+- Mac: ✅ (macOS 13 Ventura)
+- Apple Watch: ✅ (watchOS 9)
 
-## Notes
+## Notes:
 - requires Jamf Pro version 10.46
-- if the Import Questions don’t work, the Shortcut will fail - be sure to check the correct fields below have been populated if you encounter an error on first run
+- if the Import Questions don’t work, the Shortcut will fail - be sure to check the correct fields below have been poopulated if you encounter an error on first run
