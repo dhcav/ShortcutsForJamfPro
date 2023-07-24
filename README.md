@@ -9,6 +9,7 @@ Repo is under construction. Follow or check back regularly for new Shortcuts!
 ### Shortcut Compatibility
 - macOS 13 Ventura
 - iOS/iPadOS 16
+- watchOS 9
 
 Unless otherwise noted, all Shortcuts will be fully self-contained and not run other Shortcuts or use third party apps. Where possible, they will be device-agnostic in using Actions that are present on all supported OSs (e.g. avoiding Mac-only Actions). 
 
@@ -24,7 +25,7 @@ Until there is a Jamf Shortcuts app to provide auth via approved Actions this is
 ### Troubleshooting & Known Issues:
 Shortcuts can at times be a capricious little beast, so if encountering an issue try quitting and reopening the app, and restarting if it persists. Aside from that:
 - Ensure you have populated your credentials in the correct fields. I attempt to use the 'Import Questions' feature to request this on first installing the Shortcut but know this doesn't always happen
-- Jamf Pro user accounts using federated auth (e.g. Azure AD) are not currently supported. Working on this currently as this may faciliate a better approach to security
+- Jamf Pro user accounts using federated auth (e.g. Azure AD) are not currently supported. Investigating suporting this currently as this may faciliate a better approach to security
 
 
 ### Feedback
