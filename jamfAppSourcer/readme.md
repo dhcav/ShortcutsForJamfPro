@@ -27,11 +27,10 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 
 ### How to use: 
 #### From Finder/Files (anywhere you can right-click or share the .csv)
-1. Right click on .csv file (Mac) or tap Share button (mobile)
-2. Select Quick Actions
-3. Select this Shortcut
-4. View Preview (HTML)
-5. Choose format to save/share
+1. Right click on .csv file and select Quick Actions (Mac) or tap Share button (mobile)
+2. Select this Shortcut
+3. View Preview (HTML)
+4. Choose format to save/share
 
 #### Standalone (from Shortcuts or Menu Bar):
 1. Run the Shortcut
