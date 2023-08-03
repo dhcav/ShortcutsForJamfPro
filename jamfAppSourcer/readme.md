@@ -1,6 +1,6 @@
 # jamfAppSourcer
 
-This Shortcut is designed to simplify determining the optimal packaging workflow for a list of apps by listing availability of the given title/s in the three auto-packaging/distribution utilities listed above. While this is not a common task for most production environments, it is a regular chore for Jamf *partners* such as consultants, MSPs etc supporting our customers.
+This Shortcut is designed to simplify determining the optimal packaging workflow for a list of apps by listing availability of the given title/s in the four auto-packaging/distribution utilities listed below. While this is not a common task for most production environments, it is a regular chore for Jamf *partners* such as consultants, MSPs etc supporting our customers.
 
 If a full match is not found, the Shortcut will attempt to match the first word to indicate the need to investigate further. 
 
