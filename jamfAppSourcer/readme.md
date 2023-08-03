@@ -6,16 +6,16 @@ If a full match is not found, the Shortcut will attempt to match the first word 
 
 This Shortcut is intended to run by itself and does not relate directly to any other Shortcuts. 
 
-### Input: 
+### Input
 - List of application titles in CSV format (single column, no header)
 
-### Auto-packaging Sources:
+### Auto-packaging Sources
 - Installomator
 - Jamf App Installers
 - Jamf Patch Management
 - Mac App Store
 
-### Output:
+### Output
 - Search Results (Yes/Partial/No in Rich Text)
 
 #### Export Results as:
@@ -30,14 +30,14 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 - Mac:   ✅ (macOS 13 Ventura)
 - Apple Watch ❌
 
-## How to use: 
+## How to Use
 #### From Finder/Files (anywhere you can right-click or share the .csv)
 1. Right click on .csv file and select Quick Actions (Mac) or tap Share button (mobile)
 2. Select this Shortcut
 3. View Preview (HTML)
 4. Choose format to save/share
 
-#### Standalone (from Shortcuts or Menu Bar):
+#### Standalone (from Shortcuts or Menu Bar)
 1. Run the Shortcut
 2. Select the .csv file as prompted
 3. View Preview (HTML)
