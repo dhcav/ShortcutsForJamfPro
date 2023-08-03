@@ -1,0 +1,1198 @@
+010 Editor
+1Password (Combined Definition)
+1Password 4
+1Password 5
+1Password 6
+1Password 7
+1Password 8
+3CXPhone
+4K Video Downloader
+8x8 Virtual Office
+8x8 Work
+Ableton Live 10 Lite
+Ableton Live 10 Suite
+Ableton Live 11 Lite
+Ableton Live 11 Suite
+Ableton Live 9 Suite
+Ableton Live Lite (Combined Definition)
+Ableton Live Suite (Combined Definition)
+Abstract
+ActivDriver
+ActivInspire
+Adium
+Adobe Acrobat 2015 Classic
+Adobe Acrobat 2017 Classic
+Adobe Acrobat 2020 Classic
+Adobe Acrobat DC Classic (Combined Definition)
+Adobe Acrobat DC Continuous
+Adobe Acrobat Reader 2015 Classic
+Adobe Acrobat Reader 2017 Classic
+Adobe Acrobat Reader 2020 Classic
+Adobe Acrobat Reader DC Classic (Combined Definition)
+Adobe Acrobat Reader DC Continuous
+Adobe Acrobat Updater
+Adobe Acrobat XI Pro
+Adobe After Effects (Combined Definition)
+Adobe After Effects 2020
+Adobe After Effects 2021
+Adobe After Effects 2022
+Adobe After Effects 2023
+Adobe After Effects CC 2014
+Adobe After Effects CC 2015.3
+Adobe After Effects CC 2015
+Adobe After Effects CC 2017
+Adobe After Effects CC 2018
+Adobe After Effects CC 2019
+Adobe After Effects CC
+Adobe After Effects CS6
+Adobe AIR
+Adobe Animate (Combined Definition)
+Adobe Animate 2020
+Adobe Animate 2021
+Adobe Animate 2022
+Adobe Animate 2023
+Adobe Animate CC 2015.1
+Adobe Animate CC 2015.2
+Adobe Animate CC 2017
+Adobe Animate CC 2018
+Adobe Animate CC 2019
+Adobe Audition (Combined Definition)
+Adobe Audition 2020
+Adobe Audition 2021
+Adobe Audition 2022
+Adobe Audition 2023
+Adobe Audition CC 2014
+Adobe Audition CC 2015.2
+Adobe Audition CC 2015
+Adobe Audition CC 2017
+Adobe Audition CC 2018
+Adobe Audition CC 2019
+Adobe Audition CC
+Adobe Audition CS6
+Adobe Brackets
+Adobe Bridge (Combined Definition)
+Adobe Bridge 2020
+Adobe Bridge 2021
+Adobe Bridge 2022
+Adobe Bridge 2023
+Adobe Bridge CC 2015
+Adobe Bridge CC 2017
+Adobe Bridge CC 2018
+Adobe Bridge CC 2019
+Adobe Bridge CC
+Adobe Bridge CS6
+Adobe Camera Raw CC
+Adobe Captivate (Combined Definition)
+Adobe Captivate 2017
+Adobe Captivate 2019
+Adobe Captivate 6
+Adobe Captivate 7
+Adobe Captivate 8
+Adobe Captivate 9
+Adobe Character Animator (Combined Definition)
+Adobe Character Animator 2020
+Adobe Character Animator 2021
+Adobe Character Animator 2022
+Adobe Character Animator 2023
+Adobe Character Animator CC 2018
+Adobe Character Animator CC 2019
+Adobe Connect
+Adobe Creative Cloud
+Adobe CSXS Infrastructure CS6
+Adobe Digital Editions
+Adobe Dimension (Combined Definition)
+Adobe Dimension CC
+Adobe Dimension
+Adobe DNG Converter
+Adobe Dreamweaver (Combined Definition)
+Adobe Dreamweaver 2020
+Adobe Dreamweaver 2021
+Adobe Dreamweaver CC 2014.1
+Adobe Dreamweaver CC 2014
+Adobe Dreamweaver CC 2015
+Adobe Dreamweaver CC 2017
+Adobe Dreamweaver CC 2018
+Adobe Dreamweaver CC 2019
+Adobe Dreamweaver CC
+Adobe Dreamweaver CS6
+Adobe Dynamic Media Classic
+Adobe ExtendScript Toolkit CC
+Adobe Extension Manager CC
+Adobe Extension Manager CS6
+Adobe Fireworks CS6
+Adobe Flash Builder Premium
+Adobe Flash Player
+Adobe Flash Professional CC 2014
+Adobe Flash Professional CC 2015
+Adobe Flash Professional CC
+Adobe Flash Professional CS6
+Adobe Gaming SDK
+Adobe Illustrator (Combined Definition)
+Adobe Illustrator 2020
+Adobe Illustrator 2021
+Adobe Illustrator 2022
+Adobe Illustrator 2023
+Adobe Illustrator CC 2014
+Adobe Illustrator CC 2015.3
+Adobe Illustrator CC 2015
+Adobe Illustrator CC 2017
+Adobe Illustrator CC 2018
+Adobe Illustrator CC 2019
+Adobe Illustrator CC
+Adobe Illustrator CS6
+Adobe InCopy (Combined Definition)
+Adobe InCopy 2020
+Adobe InCopy 2021
+Adobe InCopy 2022
+Adobe InCopy 2023
+Adobe InCopy CC 2014
+Adobe InCopy CC 2015
+Adobe InCopy CC 2017
+Adobe InCopy CC 2018
+Adobe InCopy CC 2019
+Adobe InCopy CC
+Adobe InCopy CS6
+Adobe InDesign (Combined Definition)
+Adobe InDesign 2020
+Adobe InDesign 2021
+Adobe InDesign 2022
+Adobe InDesign 2023
+Adobe InDesign CC 2014
+Adobe InDesign CC 2015
+Adobe InDesign CC 2017
+Adobe InDesign CC 2018
+Adobe InDesign CC 2019
+Adobe InDesign CC
+Adobe InDesign CS6
+Adobe Lightroom CC 2015
+Adobe Lightroom CC
+Adobe Lightroom Classic (Combined Definition)
+Adobe Lightroom Classic CC
+Adobe Lightroom Classic
+Adobe Media Encoder (Combined Definition)
+Adobe Media Encoder 2020
+Adobe Media Encoder 2021
+Adobe Media Encoder 2022
+Adobe Media Encoder 2023
+Adobe Media Encoder CC 2014
+Adobe Media Encoder CC 2015.3
+Adobe Media Encoder CC 2015
+Adobe Media Encoder CC 2017
+Adobe Media Encoder CC 2018
+Adobe Media Encoder CC 2019
+Adobe Media Encoder CC
+Adobe Media Encoder CS6
+Adobe Muse CC (Combined Definition)
+Adobe Muse CC 2014
+Adobe Muse CC 2015.2
+Adobe Muse CC 2015
+Adobe Muse CC 2017
+Adobe Muse CC 2018
+Adobe Pepper Flash Player
+Adobe Photoshop (Combined Definition)
+Adobe Photoshop 2020
+Adobe Photoshop 2021
+Adobe Photoshop 2022
+Adobe Photoshop 2023
+Adobe Photoshop Camera Raw CC
+Adobe Photoshop Camera Raw CS6
+Adobe Photoshop CC 2014
+Adobe Photoshop CC 2015.5
+Adobe Photoshop CC 2015
+Adobe Photoshop CC 2017
+Adobe Photoshop CC 2018
+Adobe Photoshop CC 2019
+Adobe Photoshop CC
+Adobe Photoshop CS6
+Adobe Photoshop Lightroom 5
+Adobe Prelude (Combined Definition)
+Adobe Prelude 2020
+Adobe Prelude 2021
+Adobe Prelude 2022
+Adobe Prelude CC 2014
+Adobe Prelude CC 2015.4
+Adobe Prelude CC 2015
+Adobe Prelude CC 2017
+Adobe Prelude CC 2018
+Adobe Prelude CC 2019
+Adobe Prelude CC
+Adobe Prelude CS6
+Adobe Premiere Pro (Combined Definition)
+Adobe Premiere Pro 2020
+Adobe Premiere Pro 2021
+Adobe Premiere Pro 2022
+Adobe Premiere Pro 2023
+Adobe Premiere Pro CC 2014
+Adobe Premiere Pro CC 2015.3
+Adobe Premiere Pro CC 2015
+Adobe Premiere Pro CC 2017
+Adobe Premiere Pro CC 2018
+Adobe Premiere Pro CC 2019
+Adobe Premiere Pro CC
+Adobe Premiere Pro CS6
+Adobe Premiere Rush (Combined Definition)
+Adobe Premiere Rush 2.0
+Adobe Premiere Rush CC
+Adobe Premiere Rush
+Adobe Reader XI
+Adobe Scout CC
+Adobe Shockwave Player
+Adobe SpeedGrade (Combined Definition)
+Adobe SpeedGrade CC 2014
+Adobe SpeedGrade CC 2015
+Adobe SpeedGrade CC
+Adobe SpeedGrade CS6
+Adobe STI_ColorCommonSet_RGB_HD
+Adobe STI_Color_MotionPicture_HD
+Adobe Substance 3D Designer
+Adobe Substance 3D Painter
+Adobe Substance 3D Sampler
+Adobe Substance 3D Stager
+Adobe Substance Alchemist
+Adobe Substance Designer
+Adobe Substance Painter
+Adobe XD (Combined Definition)
+Adobe XD CC
+Adobe XD
+AdoptOpenJDK (Hotspot) (Combined Definition)
+AdoptOpenJDK (Hotspot) 11
+AdoptOpenJDK (Hotspot) 12
+AdoptOpenJDK (Hotspot) 13
+AdoptOpenJDK (Hotspot) 14
+AdoptOpenJDK (Hotspot) 15
+AdoptOpenJDK (Hotspot) 16
+AdoptOpenJDK (Hotspot) 8
+AdoptOpenJDK (Hotspot, JRE) (Combined Definition)
+AdoptOpenJDK (Hotspot, JRE) 11
+AdoptOpenJDK (Hotspot, JRE) 12
+AdoptOpenJDK (Hotspot, JRE) 13
+AdoptOpenJDK (Hotspot, JRE) 14
+AdoptOpenJDK (Hotspot, JRE) 15
+AdoptOpenJDK (Hotspot, JRE) 16
+AdoptOpenJDK (Hotspot, JRE) 8
+AdoptOpenJDK (OpenJ9) (Combined Definition)
+AdoptOpenJDK (OpenJ9) 11
+AdoptOpenJDK (OpenJ9) 12
+AdoptOpenJDK (OpenJ9) 13
+AdoptOpenJDK (OpenJ9) 14
+AdoptOpenJDK (OpenJ9) 15
+AdoptOpenJDK (OpenJ9) 16
+AdoptOpenJDK (OpenJ9) 8
+AdoptOpenJDK (OpenJ9, JRE) (Combined Definition)
+AdoptOpenJDK (OpenJ9, JRE) 11
+AdoptOpenJDK (OpenJ9, JRE) 12
+AdoptOpenJDK (OpenJ9, JRE) 13
+AdoptOpenJDK (OpenJ9, JRE) 14
+AdoptOpenJDK (OpenJ9, JRE) 15
+AdoptOpenJDK (OpenJ9, JRE) 16
+AdoptOpenJDK (OpenJ9, JRE) 8
+Affinity Designer (Combined Definition)
+Affinity Designer 2
+Affinity Designer
+Affinity Photo (Combined Definition)
+Affinity Photo 2
+Affinity Photo
+Affinity Publisher (Combined Definition)
+Affinity Publisher 2
+Affinity Publisher
+Aircall
+Airtame
+AlDente Classic
+AlDente
+Alfred (Combined Definition)
+Alfred 3
+Alfred 4
+Alfred 5
+Alice 3
+Amadeus Pro
+Amazon AWS VPN Client
+Amazon Chime
+Amazon Corretto (Combined Definition)
+Amazon Corretto 11
+Amazon Corretto 15
+Amazon Corretto 16
+Amazon Corretto 17
+Amazon Corretto 18
+Amazon Corretto 19
+Amazon Corretto 8
+Amazon Kindle
+Amazon WorkSpaces
+Anki
+AnyDesk
+Apache NetBeans
+Apache OpenOffice
+AppCleaner
+Appium
+Apple GarageBand 10
+Apple iMovie
+Apple Install macOS (Combined Definition)
+Apple Install macOS Big Sur
+Apple Install macOS Catalina
+Apple Install macOS High Sierra
+Apple Install macOS Mojave
+Apple Install macOS Monterey
+Apple Install macOS Ventura
+Apple Keynote
+Apple macOS (Combined Definition)
+Apple macOS Big Sur
+Apple macOS Catalina
+Apple macOS High Sierra
+Apple macOS Mojave
+Apple macOS Monterey
+Apple macOS Sierra
+Apple macOS Ventura
+Apple Numbers
+Apple OS X El Capitan
+Apple OS X Yosemite
+Apple Pages
+Apple Safari
+Apple Swift Playgrounds
+Apple Xcode
+Aquamacs
+Arduino IDE
+Arq (Combined Definition)
+Arq 5
+Arq 6
+Arq 7
+Asana
+aText
+Atlassian Companion
+Atlassian Sourcetree
+Audacity
+Authy Desktop
+AWS Wickr
+Axure RP (Combined Definition)
+Axure RP 10
+Axure RP 9
+balenaEtcher
+Balsamiq Wireframes
+Bare Bones BBEdit
+Bare Bones TextWrangler
+Basecamp 3
+Bear
+BetterTouchTool
+Beyond Compare 4
+BibDesk
+Bitwarden
+Blackmagic DaVinci Resolve
+Blackmagic Desktop Video
+Blender
+BlueJ
+BlueJeans
+Box Drive
+Box Notes
+Box Sync
+Brave Browser
+Burp Suite Community Edition
+BusyCal 3
+Caffeine
+Cakebrew
+calibre
+Callbar
+Canon UFR II Printer Driver
+Carbon Copy Cloner (Combined Definition)
+Carbon Copy Cloner 4
+Carbon Copy Cloner 5
+Carbon Copy Cloner 6
+CCleaner
+Charles Proxy
+CheatSheet
+Chef Workstation
+ChefDK
+ChronoSync
+Cisco Jabber
+Cisco Proximity
+Cisco Spark
+Cisco Webex Meetings
+Cisco Webex
+Citrix Files for Mac
+Citrix HDX RealTime Media Engine
+Citrix Receiver 12
+Citrix Workspace (Combined Definition)
+Citrix Workspace
+ClamXAV
+ClickShare
+Clip Studio Paint
+CloudApp
+Cloudflare WARP
+CMake
+CocoaPods App
+coconutBattery
+Code42 Desktop
+CodeRunner
+Comic Life 3
+CraftManager
+CrashPlan (Combined Definition)
+CrashPlan
+Cricut Design Space
+CrisisGo
+CrossOver
+Cypress
+DaisyDisk
+Dash
+Dashlane - Legacy
+Dashlane
+DataStax DevCenter
+Daylite
+DB Browser for SQLite
+DBeaver Community Edition
+DbVisualizer (Combined Definition)
+DbVisualizer 10
+DbVisualizer 11
+DbVisualizer 12
+DbVisualizer 13
+DbVisualizer 14
+DbVisualizer 23
+Debookee
+DetectX Swift
+Dialpad
+Discord
+DisplayLink Manager
+DisplayLink USB Graphics Software
+Docker Desktop
+Docker Kitematic
+Drafts
+Dragonframe (Combined Definition)
+Dragonframe 3
+Dragonframe 4
+Dragonframe 5
+Dropbox
+Duet
+Duo Device Health
+EasyFind
+Eclipse IDE for C and C++ Developers
+Eclipse IDE for Eclipse Committers
+Eclipse IDE for Embedded C and C++ Developers
+Eclipse IDE for Enterprise Java Developers
+Eclipse IDE for Java and DSL Developers
+Eclipse IDE for Java Developers
+Eclipse IDE for PHP Developers
+Eclipse IDE for RCP and RAP Developers
+Eclipse IDE for Rust Developers
+Eclipse IDE for Scientific Computing
+Eclipse IDE for Scout Developers
+Eclipse IDE for Testers
+Eclipse IDE for Web and JavaScript Developers
+Eclipse Modeling Tools
+Eclipse Temurin (Combined Definition)
+Eclipse Temurin (JRE) (Combined Definition)
+Eclipse Temurin (JRE) 11
+Eclipse Temurin (JRE) 17
+Eclipse Temurin (JRE) 18
+Eclipse Temurin (JRE) 19
+Eclipse Temurin (JRE) 8
+Eclipse Temurin 11
+Eclipse Temurin 16
+Eclipse Temurin 17
+Eclipse Temurin 18
+Eclipse Temurin 19
+Eclipse Temurin 8
+Egnyte Connect
+Egnyte WebEdit
+Egnyte
+Element
+Encrypt.me
+EndNote (Combined Definition)
+EndNote 20
+EndNote 21
+EndNote X8
+EndNote X9
+ESET Endpoint Antivirus (Combined Definition)
+ESET Endpoint Antivirus 6
+ESET Endpoint Antivirus 7
+ESET Endpoint Security
+ESET Protect
+Evernote
+ExpanDrive
+Extensis Connect Fonts (Combined Definition)
+Extensis Connect Fonts
+Extensis Portfolio 3 Desktop
+Extensis Portfolio 4 Desktop
+Extensis Portfolio Desktop (Combined Definition)
+Extensis Suitcase Fusion 21
+Extensis Suitcase Fusion 22
+Extensis Suitcase Fusion 7
+Extensis Suitcase Fusion 8
+Extensis Suitcase Fusion 9
+Extensis Universal Type Client (Combined Definition)
+Extensis Universal Type Client 6
+Extensis Universal Type Client 7
+Facebook Messenger
+Facebook Workplace Chat
+Ferdi
+Fetch
+Fiddler Everywhere
+Figma
+FileMaker Pro (Combined Definition)
+FileMaker Pro 12 Advanced
+FileMaker Pro 12
+FileMaker Pro 13 Advanced
+FileMaker Pro 13
+FileMaker Pro 14 Advanced
+FileMaker Pro 14
+FileMaker Pro 15 Advanced
+FileMaker Pro 15
+FileMaker Pro 16 Advanced
+FileMaker Pro 16
+FileMaker Pro 17 Advanced
+FileMaker Pro 18 Advanced
+FileMaker Pro 19
+FileMaker Pro 2023
+FileMaker Pro Advanced (Combined Definition)
+FileZilla Client
+Final Cut Library Manager
+Flinto
+Flow
+FlowJo
+Flux
+Flycut
+Fork
+ForkLift 3
+FortiClient (Combined Definition)
+FortiClient 6.0
+FortiClient 6.2
+FortiClient 6.4
+FortiClient 7.0
+FortiClient 7.2
+Foxit PDF Editor
+Foxit PhantomPDF
+Franz
+Freeplane
+Front
+FSMonitor
+FxFactory
+Geneious Prime
+Gephi
+GIMP
+GitHub Atom
+GitHub Desktop
+GitKraken
+GNU Emacs
+Google Android File Transfer
+Google Android Studio
+Google Backup and Sync
+Google Chrome
+Google Drive
+Google Earth Pro
+Google Earth
+Google Hangouts Chat
+Google Santa
+Google Web Designer
+GPG Suite
+Grammarly Desktop
+Grammarly
+GrandPerspective
+Greenfoot
+Gyazo GIF
+Gyazo
+HandBrake
+HitFilm Express
+HitFilm
+HP Easy Admin
+Hyper
+IBM Aspera Connect
+IBM Aspera Crypt
+IBM Notifier
+IBM Semeru Runtime (OpenJ9) (Combined Definition)
+IBM Semeru Runtime (OpenJ9) 11
+IBM Semeru Runtime (OpenJ9) 16
+IBM Semeru Runtime (OpenJ9) 17
+IBM Semeru Runtime (OpenJ9) 18
+IBM Semeru Runtime (OpenJ9) 8
+IBM Semeru Runtime (OpenJ9, JRE) (Combined Definition)
+IBM Semeru Runtime (OpenJ9, JRE) 11
+IBM Semeru Runtime (OpenJ9, JRE) 16
+IBM Semeru Runtime (OpenJ9, JRE) 17
+IBM Semeru Runtime (OpenJ9, JRE) 18
+IBM Semeru Runtime (OpenJ9, JRE) 8
+IGV
+iLok License Manager
+ImageOptim
+iMazing 2
+iMazing Profile Editor
+Inkscape
+Insomnia
+Intel Power Gadget
+Intel Unite
+Intermedia Unite
+Isadora 3
+iShowU Instant
+iStat Menus
+Iterate Cyberduck
+Iterate Mountain Duck
+iTerm2
+Itsycal
+iZotope Product Portal
+Jabra Direct
+Jamf Admin
+Jamf Composer
+Jamf Connect Configuration
+Jamf Connect Login
+Jamf Connect Sync
+Jamf Connect Verify
+Jamf Connect
+Jamf DEPNotify
+Jamf Imaging
+Jamf NoMAD
+Jamf PPPC Utility
+Jamf Protect
+Jamf Recon
+Jamf Remote
+Jamf Self Service for macOS
+JetBrains AppCode
+JetBrains CLion
+JetBrains DataGrip
+JetBrains DataSpell
+JetBrains GoLand
+JetBrains IntelliJ IDEA Community
+JetBrains IntelliJ IDEA Ultimate
+JetBrains PhpStorm
+JetBrains PyCharm Community
+JetBrains PyCharm Professional
+JetBrains Rider
+JetBrains RubyMine
+JetBrains Toolbox
+JetBrains WebStorm
+join.me
+Kaltura Capture
+Karabiner-Elements
+KeePassX
+KeePassXC
+Keeper Password Manager
+KeepingYouAwake
+Keka
+Keybase
+Keyboard Maestro
+KeyShot (Combined Definition)
+KeyShot 10 Network Rendering
+KeyShot 10 Viewer
+KeyShot 10
+KeyShot 11 Network Rendering
+KeyShot 11 Viewer
+KeyShot 11
+KeyShot 2023 Network Rendering
+KeyShot 2023 Viewer
+KeyShot 2023
+KeyShot 9 Network Rendering
+KeyShot 9 Viewer
+KeyShot 9
+KeyShot Network Rendering (Combined Definition)
+KeyShot Viewer (Combined Definition)
+Kindle Previewer
+Komodo Edit (Combined Definition)
+Komodo Edit 10
+Komodo Edit 11
+Komodo Edit 12
+Komodo Edit 8
+Komodo Edit 9
+Krisp
+Krita
+Kubernetic
+LabChart
+LaTeXiT
+LaunchControl
+LEGO EV3 Classroom
+LibreOffice
+Lifesize
+Linear
+Lingon (Combined Definition)
+Lingon X7
+Lingon X8
+Lingon X9
+Little Snitch (Combined Definition)
+Little Snitch 4
+Little Snitch 5
+Logitech Capture
+Logitech Options
+Logitech Presentation
+Logitech Unifying Software
+LogMeIn GoToMeeting
+LogMeIn LastPass
+Loom
+MacDown
+macOS
+MacPass
+MacVector
+Malwarebytes 4
+MAMP PRO
+MAMP
+Mattermost
+Max (Combined Definition)
+Max 7
+Max 8
+McAfee Endpoint Security for Mac
+MediaInfo
+Mendeley Desktop
+MenuMeters
+Mersive Solstice
+Meta Spark Studio
+Microsoft .NET Runtime (Combined Definition)
+Microsoft .NET Runtime 2.0
+Microsoft .NET Runtime 2.1
+Microsoft .NET Runtime 2.2
+Microsoft .NET Runtime 3.0
+Microsoft .NET Runtime 3.1
+Microsoft .NET Runtime 5.0
+Microsoft .NET Runtime 6.0
+Microsoft .NET Runtime 7.0
+Microsoft .NET SDK (Combined Definition)
+Microsoft .NET SDK 2.0
+Microsoft .NET SDK 2.1
+Microsoft .NET SDK 2.2
+Microsoft .NET SDK 3.0
+Microsoft .NET SDK 3.1
+Microsoft .NET SDK 5.0
+Microsoft .NET SDK 6.0
+Microsoft .NET SDK 7.0
+Microsoft AutoUpdate
+Microsoft Azure Data Studio
+Microsoft Azure Storage Explorer
+Microsoft Classroom Mode for Minecraft
+Microsoft Code Connection for Minecraft
+Microsoft Defender
+Microsoft Edge
+Microsoft Excel (Combined Definition)
+Microsoft Excel 2016
+Microsoft Excel 365
+Microsoft Intune Company Portal
+Microsoft Minecraft Education Edition
+Microsoft OneDrive
+Microsoft OneNote (Combined Definition)
+Microsoft OneNote 2016
+Microsoft OneNote 365
+Microsoft Outlook (Combined Definition)
+Microsoft Outlook 2016
+Microsoft Outlook 365
+Microsoft PowerPoint (Combined Definition)
+Microsoft PowerPoint 2016
+Microsoft PowerPoint 365
+Microsoft PowerShell
+Microsoft Remote Desktop 10
+Microsoft Silverlight
+Microsoft Skype for Business
+Microsoft Skype
+Microsoft Teams
+Microsoft Visual Studio (Combined Definition)
+Microsoft Visual Studio 2019
+Microsoft Visual Studio 2022
+Microsoft Visual Studio Code
+Microsoft Word (Combined Definition)
+Microsoft Word 2016
+Microsoft Word 365
+Microsoft Yammer
+Mimestream
+mimoLive
+Mindjet MindManager 12
+MindManager (Combined Definition)
+MindManager 13
+MindManager 14
+MindNode
+mInstaller
+Miro
+mmhmm
+Mothers Ruin Apparency
+Mothers Ruin Suspicious Package
+Mozilla Firefox Developer Edition
+Mozilla Firefox ESR
+Mozilla Firefox
+Mozilla Thunderbird
+MPEG Streamclip
+MuseScore
+Muzzle
+Native Access
+Netskope Client
+Nextcloud Desktop Client
+Node.js (Combined Definition)
+Node.js 10
+Node.js 11
+Node.js 12
+Node.js 13
+Node.js 14
+Node.js 15
+Node.js 16
+Node.js 17
+Node.js 18
+Node.js 19
+Node.js 20
+Node.js 4
+Node.js 5
+Node.js 6
+Node.js 7
+Node.js 8
+Node.js 9
+NoMachine Client
+Notion
+Noun Project
+Nudge
+OBS Studio
+Octave
+Octory
+OmniFocus (Combined Definition)
+OmniFocus 2
+OmniFocus 3
+OmniGraffle (Combined Definition)
+OmniGraffle 6
+OmniGraffle 7
+OmniOutliner (Combined Definition)
+OmniOutliner 4
+OmniOutliner 5
+OmniPlan (Combined Definition)
+OmniPlan 2
+OmniPlan 3
+OmniPlan 4
+OmniPresence
+ONLYOFFICE
+OnlyYooz
+OnyX
+OpenRefine
+OpenVPN Connect
+Opera
+Oracle Java SE Development Kit (Combined Definition)
+Oracle Java SE Development Kit 10
+Oracle Java SE Development Kit 11
+Oracle Java SE Development Kit 12
+Oracle Java SE Development Kit 13
+Oracle Java SE Development Kit 14
+Oracle Java SE Development Kit 15
+Oracle Java SE Development Kit 16
+Oracle Java SE Development Kit 17
+Oracle Java SE Development Kit 18
+Oracle Java SE Development Kit 19
+Oracle Java SE Development Kit 20
+Oracle Java SE Development Kit 7
+Oracle Java SE Development Kit 8 (CPU)
+Oracle Java SE Development Kit 8
+Oracle Java SE Development Kit 9
+Oracle Java SE Runtime Environment (Combined Definition)
+Oracle Java SE Runtime Environment JRE 10
+Oracle Java SE Runtime Environment JRE 7
+Oracle Java SE Runtime Environment JRE 8 (CPU)
+Oracle Java SE Runtime Environment JRE 8
+Oracle Java SE Runtime Environment JRE 9
+Oracle MySQL Workbench
+Oracle SQLDeveloper
+Oracle VirtualBox (Combined Definition)
+Oracle VirtualBox 4.0
+Oracle VirtualBox 4.1
+Oracle VirtualBox 4.2
+Oracle VirtualBox 4.3
+Oracle VirtualBox 5.0
+Oracle VirtualBox 5.1
+Oracle VirtualBox 5.2
+Oracle VirtualBox 6.0
+Oracle VirtualBox 6.1
+Oracle VirtualBox 7.0
+Overflow
+ownCloud Desktop Client
+Pacifist
+Packages
+Paintbrush
+Panic Coda 2
+Panic Nova
+Panic Transmit (Combined Definition)
+Panic Transmit 4
+Panic Transmit 5
+Papers 3
+Parallels Client (Combined Definition)
+Parallels Client 15.5
+Parallels Client 16.5
+Parallels Client 16
+Parallels Client 17
+Parallels Client 18
+Parallels Desktop (Combined Definition)
+Parallels Desktop 10
+Parallels Desktop 11
+Parallels Desktop 12
+Parallels Desktop 13
+Parallels Desktop 14
+Parallels Desktop 15
+Parallels Desktop 16
+Parallels Desktop 17
+Parallels Desktop 18
+Pencil2D
+Perimeter 81
+pgAdmin 4
+Photo Mechanic 6
+Pika
+PIX 2
+Plantronics Hub for Mac
+Podman Desktop
+Poly Lens
+PostgresApp
+Postico
+Postman
+Praat
+Principle
+Prism (Combined Definition)
+Prism 6
+Prism 7
+Prism 8
+Prism 9
+Pritunl Client
+Processing (Combined Definition)
+Processing 3
+Processing 4
+ProfileCreator
+ProtoPie
+Proxifier 3
+Proxyman
+PyMOL
+Python (Combined Definition)
+Python 2
+Python 3
+QGIS
+Qlab (Combined Definition)
+QLab 3
+QLab 4
+QLab 5
+QSR NVivo (Combined Definition)
+QSR NVivo 10
+QSR NVivo 11
+QSR NVivo 12
+QSR NVivo
+Qsync
+Querious
+R for Statistical Computing
+Racket
+Rambox CE
+Rambox Pro
+Rambox
+Rancher Desktop
+RapidAPI
+Readdle Spark
+Recipe Robot
+Rectangle
+Reflector 3
+Resilio Sync
+Reveal
+Rhino 7
+Rhinoceros 6
+RingCentral App
+RingCentral Classic App
+RingCentral Meetings
+RingCentral Phone
+Root3 Support
+Royal TSX
+RStudio Desktop
+SAP Icons
+SAP Privileges
+ScaleFT
+Screaming Frog SEO Spider
+Scribus
+SD Card Formatter
+Seashore
+Sequel Pro
+Signal
+Signiant App
+Sketch
+Skim
+Skitch
+Slack
+Sloth
+SMART Ink
+SMART Notebook
+SMART Product Drivers
+SmartSVN
+Snap Camera
+SnapGene Viewer
+SoapUI Open Source
+Sonos S1 Controller
+Sonos S2
+Sophos Antivirus for Mac
+Sophos Endpoint 10 for Mac
+Sophos Endpoint for Mac
+Splashtop Business
+Splashtop SOS
+Splashtop Streamer
+Spotify
+Stream Deck
+StrongDM
+Sublime Text (Combined Definition)
+Sublime Text 3
+Sublime Text 4
+Superhuman
+Sweet Home 3D
+swiftDialog
+SwiftStack Client
+Switch Audio File Converter
+Symantec Endpoint Protection
+Sync
+Tableau Desktop (Combined Definition)
+Tableau Desktop 10.0
+Tableau Desktop 10.1
+Tableau Desktop 10.2
+Tableau Desktop 10.3
+Tableau Desktop 10.4
+Tableau Desktop 10.5
+Tableau Desktop 2018.1
+Tableau Desktop 2018.2
+Tableau Desktop 2018.3
+Tableau Desktop 2019.1
+Tableau Desktop 2019.2
+Tableau Desktop 2019.3
+Tableau Desktop 2019.4
+Tableau Desktop 2020.1
+Tableau Desktop 2020.2
+Tableau Desktop 2020.3
+Tableau Desktop 2020.4
+Tableau Desktop 2021.1
+Tableau Desktop 2021.2
+Tableau Desktop 2021.3
+Tableau Desktop 2021.4
+Tableau Desktop 2022.1
+Tableau Desktop 2022.2
+Tableau Desktop 2022.3
+Tableau Desktop 2022.4
+Tableau Desktop 2023.1
+Tableau Desktop 2023.2
+Tableau Desktop 8.2
+Tableau Desktop 8.3
+Tableau Desktop 9.0
+Tableau Desktop 9.1
+Tableau Desktop 9.2
+Tableau Desktop 9.3
+Tableau Reader
+TablePlus
+Task Coach
+TeamViewer (Combined Definition)
+TeamViewer 14 Host
+TeamViewer 14 QuickJoin
+TeamViewer 14 QuickSupport
+TeamViewer 14
+TeamViewer 15 Host
+TeamViewer 15 QuickJoin
+TeamViewer 15 QuickSupport
+TeamViewer 15
+TeamViewer Host (Combined Definition)
+TeamViewer QuickJoin (Combined Definition)
+TeamViewer QuickSupport (Combined Definition)
+TechSmith Camtasia (Combined Definition)
+TechSmith Camtasia 2018
+TechSmith Camtasia 2019
+TechSmith Camtasia 2020
+TechSmith Camtasia 2021
+TechSmith Camtasia 2022
+TechSmith Camtasia 2023
+TechSmith Snagit (Combined Definition)
+TechSmith Snagit 2018
+TechSmith Snagit 2019
+TechSmith Snagit 2020
+TechSmith Snagit 2021
+TechSmith Snagit 2022
+TechSmith Snagit 2023
+TechSmith Snagit 4
+Telegram
+TeX Live Utility
+TeXShop
+TextExpander
+TextMate
+The MUT
+The Unarchiver
+Thonny
+Thorium Reader
+Toggl Desktop
+Tor Browser
+Tower
+Trello
+Tresorit
+Trimble SketchUp (Combined Definition)
+Trimble SketchUp 2014
+Trimble SketchUp 2015
+Trimble SketchUp 2016
+Trimble SketchUp 2017
+Trimble SketchUp 2018
+Trimble SketchUp 2019
+Trimble SketchUp 2020
+Trimble SketchUp 2021
+Trimble SketchUp 2022
+Trimble SketchUp 2023
+Tunnelblick
+Tuxera NTFS for Mac
+TweetDeck
+Ultimaker Cura
+Unity (Combined Definition)
+Unity 2017
+Unity 2018
+Unity 2019
+Unity 2020
+Unity 2021
+Unity 2022
+Unity 2023
+Unity Hub
+UTM
+Vagrant
+Vanilla
+VB-Cable
+Viscosity
+VitalSource Bookshelf
+Vivaldi
+Vivi
+VLC media player
+VMware Fusion (Combined Definition)
+VMware Fusion 10
+VMware Fusion 11
+VMware Fusion 12
+VMware Fusion 13
+VMware Fusion 4
+VMware Fusion 5
+VMware Fusion 6
+VMware Fusion 7
+VMware Fusion 8
+VMware Horizon 7 Client
+VMware Horizon 8 Client
+VMware Horizon Client (Combined Definition)
+VMware Horizon View Client
+VMware Remote Console (Combined Definition)
+VMware Remote Console 11
+VMware Remote Console 12
+VNC Viewer
+VPN Tracker 365
+VueScan
+VyprVPN
+Vysor
+WACOM Pen Tablet Driver
+WACOM Tablet Driver
+WalkMe
+Wavebox
+Waves Central
+WeChat
+WhatsApp
+Wireshark (Combined Definition)
+Wireshark 1.10
+Wireshark 1.12
+Wireshark 1.6
+Wireshark 1.8
+Wireshark 2.0
+Wireshark 2.2
+Wireshark 2.4
+Wireshark 2.6
+Wireshark 3.0
+Wireshark 3.2
+Wireshark 3.4
+Wireshark 3.6
+Wireshark 4.0
+Wonder Unit characterizer
+Wonder Unit Storyboarder
+Xmind
+XQuartz
+YakYak
+YourKit Java Profiler
+YubiKey Manager
+Zeplin
+Zoom Client for Meetings
+Zoom Plugin for Microsoft Outlook
+Zoom Rooms
+Zotero
+Zulu OpenJDK (Combined Definition)
+Zulu OpenJDK 10
+Zulu OpenJDK 11
+Zulu OpenJDK 12
+Zulu OpenJDK 13
+Zulu OpenJDK 14
+Zulu OpenJDK 15
+Zulu OpenJDK 16
+Zulu OpenJDK 17
+Zulu OpenJDK 18
+Zulu OpenJDK 19
+Zulu OpenJDK 8
+Zulu OpenJDK 9
