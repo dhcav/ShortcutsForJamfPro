@@ -359,6 +359,7 @@ aText
 Atlassian Companion
 Atlassian Sourcetree
 Audacity
+Audio Hijack
 Authy Desktop
 AWS Wickr
 Axure RP (Combined Definition)
@@ -405,7 +406,6 @@ Cisco Proximity
 Cisco Spark
 Cisco Webex Meetings
 Cisco Webex
-Citrix Files for Mac
 Citrix HDX RealTime Media Engine
 Citrix Receiver 12
 Citrix Workspace (Combined Definition)
@@ -959,6 +959,7 @@ Rambox Pro
 Rambox
 Rancher Desktop
 RapidAPI
+ReadCube Papers
 Readdle Spark
 Recipe Robot
 Rectangle
@@ -982,6 +983,7 @@ Scribus
 SD Card Formatter
 Seashore
 Sequel Pro
+ShareFile for Mac
 Signal
 Signiant App
 Sketch
