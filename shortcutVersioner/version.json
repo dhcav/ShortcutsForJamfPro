@@ -1,0 +1,5 @@
+{
+  "version":"1.0",
+  "releaseNotes":"- Checks installed version of Shortcut against latest version on GitHub and prompts to obtain new version if available",
+  "link":"https://github.com/dhcav/ShortcutsForJamfPro/raw/main/shortcutVersioner/shortcutVersioner.shortcut"
+}
