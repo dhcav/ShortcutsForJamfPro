@@ -1,3 +1,4 @@
+010 Editor
 1Password 7
 1Password 8
 Adobe Acrobat DC Continuous
@@ -10,6 +11,7 @@ Adobe Audition 2022
 Adobe Audition 2023
 Adobe Bridge 2022
 Adobe Bridge 2023
+Adobe Bridge 2024
 Adobe Character Animator 2022
 Adobe Character Animator 2023
 Adobe Digital Editions
@@ -28,6 +30,7 @@ Adobe Media Encoder 2022
 Adobe Media Encoder 2023
 Adobe Photoshop 2022
 Adobe Photoshop 2023
+Adobe Photoshop 2024
 Adobe Prelude 2022
 Adobe Premiere Pro 2022
 Adobe Premiere Pro 2023
@@ -44,6 +47,9 @@ BlueJeans
 Box Drive
 Brave Browser
 Citrix Workspace
+Cloudflare WARP
+Cypress
+Dash
 Daylite
 DBeaver Community Edition
 Discord
@@ -56,6 +62,7 @@ Evernote
 Facebook Messenger
 FileMaker Pro 19
 FileMaker Pro 2023
+Front
 GitHub Atom
 GitHub Desktop
 Google Android File Transfer
@@ -66,6 +73,7 @@ Google Earth Pro
 Google Hangouts Chat
 Google Web Designer
 Grammarly Desktop
+IBM Notifier
 Insomnia
 Jamf Admin
 Jamf Composer
@@ -85,7 +93,9 @@ JetBrains Rider
 JetBrains RubyMine
 JetBrains Toolbox
 JetBrains WebStorm
+KeepingYouAwake
 Keka
+Keybase
 LogMeIn GoToMeeting
 Mattermost
 Microsoft Defender
@@ -101,12 +111,16 @@ Microsoft PowerShell
 Microsoft Remote Desktop 10
 Microsoft Skype
 Microsoft Teams
+Microsoft Visual Studio 2022
 Microsoft Visual Studio Code
 Microsoft Word 365
 Mozilla Firefox
 Mozilla Thunderbird
+Notion
 Nudge
 Parallels Desktop 18
+Parallels Desktop 19
+Podman Desktop
 Postman
 Rectangle
 Root3 Support
@@ -116,10 +130,12 @@ Slack
 Spotify
 Sublime Text 4
 swiftDialog
+TablePlus
 TeamViewer 15 Host
 TeamViewer 15 QuickJoin
 TeamViewer 15 QuickSupport
 TeamViewer 15
+TeX Live Utility
 The Unarchiver
 Vivi
 VMware Fusion 12
