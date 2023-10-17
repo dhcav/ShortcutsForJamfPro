@@ -2,6 +2,8 @@
 
 *Created by Damian Cavanagh in August 2023*
 
+*WORK IN PROGRESS*
+
 This helper Shortcut checks the currentVersion of a parent Shortcut (from which it is run like a function using the Run Shortcut action) against the latest version on GitHub. 
 
 If a newer version is available, the user receives a prompt with the new version number, their current version number, and release notes (retrieved along with the latest version from GitHub), and presented with an option to obtain the new version from GitHub or ignore and continue. 
