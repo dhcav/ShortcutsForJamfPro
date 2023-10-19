@@ -17,7 +17,7 @@ Within Data jar, I have created a system for storing the credentials of multiple
 As much as I love what I've come up with, I will be over the moon when Jamf sherlocks/recreates it. 
 
 ## getBearerToken_account_shareable_pt
-This Shortcut is the simplest type of Bearer Token retrieval, and also the least secure. For educational purpsoes only. 
+This Shortcut is the simplest type of Bearer Token retrieval, and also the least secure. For educational purposes only. 
 
 Most of my Shortcuts released up til this point (October 2023) have regrettably used this method to simplify usage and testing by admins unfamiliar with Shortcuts' advanced features. 
 
