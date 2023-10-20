@@ -33,5 +33,5 @@ We're essentially in the pre-history of Shortcuts being used for Mac Admin workf
 
 I am particularly keen on feedback on:
 - Input methods to support. This all began with a QR code of the device's serial but have since expanded to using the Jamf Pro Mac invoentory page's URL, clipboard, using Asset Tags instead of serials in the QR. I am currently working on being able to use a CSV in order to get MUT-like capabilities. Ideas of this type greatly appreciated
-- More efficient API calls. I am self-taught and constantly learning newer, better ways of doing things - both with Shrotcuts and APIs. As I get around to uploading all my shortcuts, you may notice a increase in sophistication from when I started a few years ago to now. If you have experience with RESTful APIs and notice any quick wins, or even basic errors, please let me know
+- More efficient API calls. I am self-taught and constantly learning newer, better ways of doing things - both with Shortcuts and APIs. As I get around to uploading all my shortcuts, you may notice a increase in sophistication from when I started a few years ago to now. If you have experience with RESTful APIs and notice any quick wins, or even basic errors, please let me know
 
