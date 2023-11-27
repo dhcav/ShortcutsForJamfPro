@@ -37,6 +37,7 @@ Adobe After Effects 2020
 Adobe After Effects 2021
 Adobe After Effects 2022
 Adobe After Effects 2023
+Adobe After Effects 2024
 Adobe After Effects CC 2014
 Adobe After Effects CC 2015.3
 Adobe After Effects CC 2015
@@ -51,6 +52,7 @@ Adobe Animate 2020
 Adobe Animate 2021
 Adobe Animate 2022
 Adobe Animate 2023
+Adobe Animate 2024
 Adobe Animate CC 2015.1
 Adobe Animate CC 2015.2
 Adobe Animate CC 2017
@@ -61,6 +63,7 @@ Adobe Audition 2020
 Adobe Audition 2021
 Adobe Audition 2022
 Adobe Audition 2023
+Adobe Audition 2024
 Adobe Audition CC 2014
 Adobe Audition CC 2015.2
 Adobe Audition CC 2015
@@ -75,6 +78,7 @@ Adobe Bridge 2020
 Adobe Bridge 2021
 Adobe Bridge 2022
 Adobe Bridge 2023
+Adobe Bridge 2024
 Adobe Bridge CC 2015
 Adobe Bridge CC 2017
 Adobe Bridge CC 2018
@@ -94,6 +98,7 @@ Adobe Character Animator 2020
 Adobe Character Animator 2021
 Adobe Character Animator 2022
 Adobe Character Animator 2023
+Adobe Character Animator 2024
 Adobe Character Animator CC 2018
 Adobe Character Animator CC 2019
 Adobe Connect
@@ -132,6 +137,7 @@ Adobe Illustrator 2020
 Adobe Illustrator 2021
 Adobe Illustrator 2022
 Adobe Illustrator 2023
+Adobe Illustrator 2024
 Adobe Illustrator CC 2014
 Adobe Illustrator CC 2015.3
 Adobe Illustrator CC 2015
@@ -145,6 +151,7 @@ Adobe InCopy 2020
 Adobe InCopy 2021
 Adobe InCopy 2022
 Adobe InCopy 2023
+Adobe InCopy 2024
 Adobe InCopy CC 2014
 Adobe InCopy CC 2015
 Adobe InCopy CC 2017
@@ -157,6 +164,7 @@ Adobe InDesign 2020
 Adobe InDesign 2021
 Adobe InDesign 2022
 Adobe InDesign 2023
+Adobe InDesign 2024
 Adobe InDesign CC 2014
 Adobe InDesign CC 2015
 Adobe InDesign CC 2017
@@ -174,6 +182,7 @@ Adobe Media Encoder 2020
 Adobe Media Encoder 2021
 Adobe Media Encoder 2022
 Adobe Media Encoder 2023
+Adobe Media Encoder 2024
 Adobe Media Encoder CC 2014
 Adobe Media Encoder CC 2015.3
 Adobe Media Encoder CC 2015
@@ -194,6 +203,7 @@ Adobe Photoshop 2020
 Adobe Photoshop 2021
 Adobe Photoshop 2022
 Adobe Photoshop 2023
+Adobe Photoshop 2024
 Adobe Photoshop Camera Raw CC
 Adobe Photoshop Camera Raw CS6
 Adobe Photoshop CC 2014
@@ -222,6 +232,7 @@ Adobe Premiere Pro 2020
 Adobe Premiere Pro 2021
 Adobe Premiere Pro 2022
 Adobe Premiere Pro 2023
+Adobe Premiere Pro 2024
 Adobe Premiere Pro CC 2014
 Adobe Premiere Pro CC 2015.3
 Adobe Premiere Pro CC 2015
@@ -314,6 +325,8 @@ Amazon Corretto 16
 Amazon Corretto 17
 Amazon Corretto 18
 Amazon Corretto 19
+Amazon Corretto 20
+Amazon Corretto 21
 Amazon Corretto 8
 Amazon Kindle
 Amazon WorkSpaces
@@ -331,6 +344,7 @@ Apple Install macOS Catalina
 Apple Install macOS High Sierra
 Apple Install macOS Mojave
 Apple Install macOS Monterey
+Apple Install macOS Sonoma
 Apple Install macOS Ventura
 Apple Keynote
 Apple macOS (Combined Definition)
@@ -340,6 +354,7 @@ Apple macOS High Sierra
 Apple macOS Mojave
 Apple macOS Monterey
 Apple macOS Sierra
+Apple macOS Sonoma
 Apple macOS Ventura
 Apple Numbers
 Apple OS X El Capitan
@@ -349,6 +364,7 @@ Apple Safari
 Apple Swift Playgrounds
 Apple Xcode
 Aquamacs
+Arc
 Arduino IDE
 Arq (Combined Definition)
 Arq 5
@@ -395,6 +411,7 @@ Carbon Copy Cloner (Combined Definition)
 Carbon Copy Cloner 4
 Carbon Copy Cloner 5
 Carbon Copy Cloner 6
+CatoClient
 CCleaner
 Charles Proxy
 CheatSheet
@@ -408,6 +425,7 @@ Cisco Webex Meetings
 Cisco Webex
 Citrix HDX RealTime Media Engine
 Citrix Receiver 12
+Citrix ShareFile for Mac
 Citrix Workspace (Combined Definition)
 Citrix Workspace
 ClamXAV
@@ -456,9 +474,10 @@ Dragonframe (Combined Definition)
 Dragonframe 3
 Dragonframe 4
 Dragonframe 5
+Dropbox Capture
 Dropbox
 Duet
-Duo Device Health
+Duo Desktop
 EasyFind
 Eclipse IDE for C and C++ Developers
 Eclipse IDE for Eclipse Committers
@@ -480,12 +499,16 @@ Eclipse Temurin (JRE) 11
 Eclipse Temurin (JRE) 17
 Eclipse Temurin (JRE) 18
 Eclipse Temurin (JRE) 19
+Eclipse Temurin (JRE) 20
+Eclipse Temurin (JRE) 21
 Eclipse Temurin (JRE) 8
 Eclipse Temurin 11
 Eclipse Temurin 16
 Eclipse Temurin 17
 Eclipse Temurin 18
 Eclipse Temurin 19
+Eclipse Temurin 20
+Eclipse Temurin 21
 Eclipse Temurin 8
 Egnyte Connect
 Egnyte WebEdit
@@ -583,7 +606,7 @@ Grammarly Desktop
 Grammarly
 GrandPerspective
 Greenfoot
-Gyazo GIF
+Gyazo Video
 Gyazo
 HandBrake
 HitFilm Express
@@ -598,12 +621,16 @@ IBM Semeru Runtime (OpenJ9) 11
 IBM Semeru Runtime (OpenJ9) 16
 IBM Semeru Runtime (OpenJ9) 17
 IBM Semeru Runtime (OpenJ9) 18
+IBM Semeru Runtime (OpenJ9) 19
+IBM Semeru Runtime (OpenJ9) 20
 IBM Semeru Runtime (OpenJ9) 8
 IBM Semeru Runtime (OpenJ9, JRE) (Combined Definition)
 IBM Semeru Runtime (OpenJ9, JRE) 11
 IBM Semeru Runtime (OpenJ9, JRE) 16
 IBM Semeru Runtime (OpenJ9, JRE) 17
 IBM Semeru Runtime (OpenJ9, JRE) 18
+IBM Semeru Runtime (OpenJ9, JRE) 19
+IBM Semeru Runtime (OpenJ9, JRE) 20
 IBM Semeru Runtime (OpenJ9, JRE) 8
 IGV
 iLok License Manager
@@ -639,6 +666,7 @@ Jamf Protect
 Jamf Recon
 Jamf Remote
 Jamf Self Service for macOS
+JamfCheck
 JetBrains AppCode
 JetBrains CLion
 JetBrains DataGrip
@@ -706,6 +734,7 @@ Logitech Capture
 Logitech Options
 Logitech Presentation
 Logitech Unifying Software
+LogiTune
 LogMeIn GoToMeeting
 LogMeIn LastPass
 Loom
@@ -735,6 +764,7 @@ Microsoft .NET Runtime 3.1
 Microsoft .NET Runtime 5.0
 Microsoft .NET Runtime 6.0
 Microsoft .NET Runtime 7.0
+Microsoft .NET Runtime 8.0
 Microsoft .NET SDK (Combined Definition)
 Microsoft .NET SDK 2.0
 Microsoft .NET SDK 2.1
@@ -744,6 +774,7 @@ Microsoft .NET SDK 3.1
 Microsoft .NET SDK 5.0
 Microsoft .NET SDK 6.0
 Microsoft .NET SDK 7.0
+Microsoft .NET SDK 8.0
 Microsoft AutoUpdate
 Microsoft Azure Data Studio
 Microsoft Azure Storage Explorer
@@ -771,6 +802,7 @@ Microsoft Remote Desktop 10
 Microsoft Silverlight
 Microsoft Skype for Business
 Microsoft Skype
+Microsoft Teams (work or school)
 Microsoft Teams
 Microsoft Visual Studio (Combined Definition)
 Microsoft Visual Studio 2019
@@ -786,6 +818,7 @@ Mindjet MindManager 12
 MindManager (Combined Definition)
 MindManager 13
 MindManager 14
+MindManager 23
 MindNode
 mInstaller
 Miro
@@ -814,6 +847,7 @@ Node.js 17
 Node.js 18
 Node.js 19
 Node.js 20
+Node.js 21
 Node.js 4
 Node.js 5
 Node.js 6
@@ -859,6 +893,7 @@ Oracle Java SE Development Kit 17
 Oracle Java SE Development Kit 18
 Oracle Java SE Development Kit 19
 Oracle Java SE Development Kit 20
+Oracle Java SE Development Kit 21
 Oracle Java SE Development Kit 7
 Oracle Java SE Development Kit 8 (CPU)
 Oracle Java SE Development Kit 8
@@ -899,6 +934,7 @@ Parallels Client 16.5
 Parallels Client 16
 Parallels Client 17
 Parallels Client 18
+Parallels Client 19
 Parallels Desktop (Combined Definition)
 Parallels Desktop 10
 Parallels Desktop 11
@@ -909,6 +945,7 @@ Parallels Desktop 15
 Parallels Desktop 16
 Parallels Desktop 17
 Parallels Desktop 18
+Parallels Desktop 19
 Pencil2D
 Perimeter 81
 pgAdmin 4
@@ -924,6 +961,7 @@ Postman
 Praat
 Principle
 Prism (Combined Definition)
+Prism 10
 Prism 6
 Prism 7
 Prism 8
@@ -949,6 +987,7 @@ QSR NVivo (Combined Definition)
 QSR NVivo 10
 QSR NVivo 11
 QSR NVivo 12
+QSR NVivo 14
 QSR NVivo
 Qsync
 Querious
@@ -966,7 +1005,9 @@ Rectangle
 Reflector 3
 Resilio Sync
 Reveal
+Rhino (Combined Definition)
 Rhino 7
+Rhino 8
 Rhinoceros 6
 RingCentral App
 RingCentral Classic App
@@ -982,8 +1023,8 @@ Screaming Frog SEO Spider
 Scribus
 SD Card Formatter
 Seashore
+Sequel Ace
 Sequel Pro
-ShareFile for Mac
 Signal
 Signiant App
 Sketch
@@ -1047,6 +1088,7 @@ Tableau Desktop 2022.3
 Tableau Desktop 2022.4
 Tableau Desktop 2023.1
 Tableau Desktop 2023.2
+Tableau Desktop 2023.3
 Tableau Desktop 8.2
 Tableau Desktop 8.3
 Tableau Desktop 9.0
@@ -1082,6 +1124,7 @@ TechSmith Snagit 2020
 TechSmith Snagit 2021
 TechSmith Snagit 2022
 TechSmith Snagit 2023
+TechSmith Snagit 2024
 TechSmith Snagit 4
 Telegram
 TeX Live Utility
@@ -1173,6 +1216,7 @@ Wireshark 3.2
 Wireshark 3.4
 Wireshark 3.6
 Wireshark 4.0
+Wireshark 4.2
 Wonder Unit characterizer
 Wonder Unit Storyboarder
 Xmind
@@ -1196,5 +1240,7 @@ Zulu OpenJDK 16
 Zulu OpenJDK 17
 Zulu OpenJDK 18
 Zulu OpenJDK 19
+Zulu OpenJDK 20
+Zulu OpenJDK 21
 Zulu OpenJDK 8
 Zulu OpenJDK 9
