@@ -5,35 +5,44 @@ Adobe Acrobat DC Continuous
 Adobe Acrobat Reader DC Continuous
 Adobe After Effects 2022
 Adobe After Effects 2023
+Adobe After Effects 2024
 Adobe Animate 2022
 Adobe Animate 2023
+Adobe Animate 2024
 Adobe Audition 2022
 Adobe Audition 2023
+Adobe Audition 2024
 Adobe Bridge 2022
 Adobe Bridge 2023
 Adobe Bridge 2024
 Adobe Character Animator 2022
 Adobe Character Animator 2023
+Adobe Character Animator 2024
 Adobe Digital Editions
 Adobe Dimension
 Adobe DNG Converter
 Adobe Dreamweaver 2021
 Adobe Illustrator 2022
 Adobe Illustrator 2023
+Adobe Illustrator 2024
 Adobe InCopy 2022
 Adobe InCopy 2023
+Adobe InCopy 2024
 Adobe InDesign 2022
 Adobe InDesign 2023
+Adobe InDesign 2024
 Adobe Lightroom CC
 Adobe Lightroom Classic
 Adobe Media Encoder 2022
 Adobe Media Encoder 2023
+Adobe Media Encoder 2024
 Adobe Photoshop 2022
 Adobe Photoshop 2023
 Adobe Photoshop 2024
 Adobe Prelude 2022
 Adobe Premiere Pro 2022
 Adobe Premiere Pro 2023
+Adobe Premiere Pro 2024
 Adobe Premiere Rush 2.0
 Adobe Substance 3D Designer
 Adobe Substance 3D Painter
@@ -79,6 +88,7 @@ Jamf Admin
 Jamf Composer
 Jamf Connect
 Jamf PPPC Utility
+JamfCheck
 JetBrains AppCode
 JetBrains CLion
 JetBrains DataGrip
@@ -110,6 +120,7 @@ Microsoft PowerPoint 365
 Microsoft PowerShell
 Microsoft Remote Desktop 10
 Microsoft Skype
+Microsoft Teams (work or school)
 Microsoft Teams
 Microsoft Visual Studio 2022
 Microsoft Visual Studio Code
