@@ -365,7 +365,9 @@ Apple Swift Playgrounds
 Apple Xcode
 Aquamacs
 Arc
+Arduino IDE (Combined Definition)
 Arduino IDE
+Arduino
 Arq (Combined Definition)
 Arq 5
 Arq 6
@@ -461,6 +463,7 @@ DbVisualizer 12
 DbVisualizer 13
 DbVisualizer 14
 DbVisualizer 23
+DbVisualizer 24
 Debookee
 DetectX Swift
 Dialpad
@@ -859,11 +862,13 @@ Notion
 Noun Project
 Nudge
 OBS Studio
+Obsidian
 Octave
 Octory
 OmniFocus (Combined Definition)
 OmniFocus 2
 OmniFocus 3
+OmniFocus 4
 OmniGraffle (Combined Definition)
 OmniGraffle 6
 OmniGraffle 7
@@ -876,7 +881,6 @@ OmniPlan 3
 OmniPlan 4
 OmniPresence
 ONLYOFFICE
-OnlyYooz
 OnyX
 OpenRefine
 OpenVPN Connect
@@ -1002,7 +1006,9 @@ ReadCube Papers
 Readdle Spark
 Recipe Robot
 Rectangle
+Reflector (Combined Definition)
 Reflector 3
+Reflector 4
 Resilio Sync
 Reveal
 Rhino (Combined Definition)
@@ -1041,9 +1047,6 @@ SnapGene Viewer
 SoapUI Open Source
 Sonos S1 Controller
 Sonos S2
-Sophos Antivirus for Mac
-Sophos Endpoint 10 for Mac
-Sophos Endpoint for Mac
 Splashtop Business
 Splashtop SOS
 Splashtop Streamer
@@ -1058,7 +1061,6 @@ Sweet Home 3D
 swiftDialog
 SwiftStack Client
 Switch Audio File Converter
-Symantec Endpoint Protection
 Sync
 Tableau Desktop (Combined Definition)
 Tableau Desktop 10.0
@@ -1201,6 +1203,8 @@ WalkMe
 Wavebox
 Waves Central
 WeChat
+WhatsApp (Combined Definition)
+WhatsApp (old)
 WhatsApp
 Wireshark (Combined Definition)
 Wireshark 1.10
