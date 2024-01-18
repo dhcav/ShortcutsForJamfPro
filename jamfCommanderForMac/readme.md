@@ -4,6 +4,11 @@ These Shortcuts send commands to Macs, with a variety of input methods supported
 
 They are intended to run by themselves and do not relate directly to any other Shortcuts. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/jamfCommanderForMac/jamfCommanderForMac.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
+
 ### Inputs
 - Choose Group - all smart and static computer_groups, or
 - Enter (or paste) serialNumber/s (up to 100), or
