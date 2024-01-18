@@ -8,8 +8,8 @@ This helper Shortcut is designed to be used within other Shortcuts where a Categ
 ### Input/s
 Optional
 - "id" or "name"
-  - When running within another Shortcut, users can specify the output type by preceding the 'Run Shortcut' Action with a text Action containing either term
-  - If no Shortcut input is provided, the user is prompted to choose the out type as the final step of the process
+  - When running within another Shortcut, users can specify the output type by preceding the 'Run Shortcut' Action with a text Action containing either term then adding that variable as the 'Run Shortcut' input
+  - If no Shortcut input is provided, the user is prompted to choose the output type as the final step of the process
 
 ### Operation
 - The list of current Jamf Pro Categories is retrieved on run
@@ -45,3 +45,4 @@ Integer: categoryID
 ### Version 1.0
 *Created in December 2023*
 - Original functionality
+
