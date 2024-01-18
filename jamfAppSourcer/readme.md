@@ -30,6 +30,9 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 - Mac:   ✅ (macOS 13 Ventura)
 - Apple Watch ❌
 
+## Privileges Required
+- Read Mac Applications
+
 ## How to Use
 #### From Finder/Files (anywhere you can right-click or share the .csv)
 1. Right click on .csv file and select Quick Actions (Mac) or tap Share button (mobile)
@@ -53,8 +56,19 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 - As always, please provide feedback if you encounter any issues
 
 ## Release Notes
+### Version 1.2
+*Updated by Damian Cavanagh in January 2024*
 
-
+Included in this update:
+- Now retrieve Jamf App Installers titles list programmatically via API on run! 
+  - No more manual maintenance of the list on my GitHub! 🥳
+  - Credit to Tyler Talaga ([@tyler-tee](https://github.com/tyler-tee)) for sharing [these (currently) undocumented Jamf App Installers endpoints at JNUC23](https://github.com/tyler-tee/JNUC-2023")
+  - Thanks to Daniel MacLaughlin ([daniel-maclaughlin](https://github.com/daniel-maclaughlin)) for putting me on to it and reminding me I didn't make it that far through my JNUC watchlist
+- Added support for new [shortcutVersioner](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/shortcutVersioner) workflow
+  - If there's a new version, you'll be given a choice to install (with one click/tap!!!) or ignore and continue with your installed version 
+- Added support for new [helperShortcutChecker](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperShortcutChecker) workflow
+  - Currently only used for shortcutVersioner, but likely to be used heavily in future versions
+  
 ### Version 1.1
 *Updated by Damian Cavanagh in August 2023*
 
