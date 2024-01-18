@@ -4,6 +4,10 @@
 
 This helper Shortcut obtains a Bearer Token to authorize later API calls, and also provides the Jamf Pro URL. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/getJamfProUrlAndToken_server_apiClient/getJamfProUrlAndToken_server_apiClient.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 
 ### Input/s
 None 
