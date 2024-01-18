@@ -4,6 +4,10 @@
 
 This helper Shortcut checks the currentVersion of the main Shortcut (from which it is run like a function using the Run Shortcut action) against the version.json dictionary in the main Shortcut's folder on GitHub. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/shortcutVersioner/shortcutVersioner.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 
 ### Input/s
 Each main Shortcut will provide a small dictionary to shortcutVersioner, containing:
