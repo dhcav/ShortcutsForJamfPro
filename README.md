@@ -60,7 +60,7 @@ Included in this update:
 - Now retrieve Jamf App Installers titles list programmatically via API on run! 
   - No more manual maintenance of the list on my GitHub! 🥳
   - Credit to [@tyler-tee](https://github.com/tyler-tee) for sharing [these (currently) undocumented Jamf App Installers endpoints at JNUC23](https://github.com/tyler-tee/JNUC-2023")
-  - Thanks to [@daniel-maclaughlin](https://github.com/daniel-maclaughlin) for putting me on to it and reminding me I didn't make it that far through my JNUC watchlist
+  - Thanks to [@daniel-maclaughlin](https://github.com/daniel-maclaughlin) for putting me on to it and unintentionally reminding me I didn't make it that far through my JNUC watchlist
 - Added support for new [shortcutVersioner](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/shortcutVersioner) workflow
   - If there's a new version, you'll be given a choice to install (with one click/tap!!!) or ignore and continue with your installed version 
 - Added support for new [helperShortcutChecker](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperShortcutChecker) workflow
