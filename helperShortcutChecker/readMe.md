@@ -6,6 +6,10 @@ This helper Shortcut checks if Shortcuts used in a main Shortcut's `Run Shortcut
 
 NOTE: Having finally devised an effective solution for using Shortcuts like functions, as I have been for years in my personal usage, I no longer have to deal with the excruciating task of recreating helper Shortcuts Action by Action. This is by far the superior approach, as even the biggest and most complex Shortcuts are largely reduced to inputs and outputs of the `Run Shortcut` Action. THIS IS A BIG DEAL FOR ME.
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/helperShortcutChecker/helperShortcutChecker.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 
 ### Input/s
 `string` (A Shortcut's name)
