@@ -6,6 +6,11 @@ If a full match is not found, the Shortcut will attempt to match the first word 
 
 This Shortcut is intended to run by itself and does not relate directly to any other Shortcuts. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/jamfAppSourcer/jamfAppSourcer.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
+
 ### Input
 - List of application titles in CSV format (single column, no header)
 
