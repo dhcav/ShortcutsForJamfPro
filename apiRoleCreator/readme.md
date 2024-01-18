@@ -4,6 +4,10 @@
 
 This Shortcut creates API Roles in Jamf Pro. It will allow the user to select privileges from the full list (retrieved on run) and create the role with a POST command. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/apiRoleCreator/apiRoleCreator.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 
 ### Input/s
 - None
@@ -45,3 +49,4 @@ After Role creation is complete, the user is prompted to choose between:
 ### Version 1.0
 *Created in January 2024*
 - Original functionality as above
+
