@@ -6,6 +6,11 @@ This Shortcut will return a Mac's LAPS account and password by extracting its ID
 
 This functionality was introduced in Jamf Pro 10.46 but is not yet supported in the GUI, so LAPS password is currently ***only*** accessible via API. In order for this Shortcut to function you must already have configured your LAPS settings via the API, which you can do with my [checkOrUpdateLapsSettings](https://github.com/dhcav/ShortcutsForJamfPro/blob/main/checkOrUpdateLapsSettings/checkOrUpdateLapsSettings.jpa.mac.mm.shortcut) Shortcut. 
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/getLapsPassword-Webpage/getLapsPassword-Webpage.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
+
 ### How to use: Mac
 1. View the Mac record in browser (Any Jamf Pro page that contains the Mac's ID should work)
 2. Tap the Shortcuts icon in the Menu Bar
