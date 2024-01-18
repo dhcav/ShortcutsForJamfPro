@@ -14,7 +14,7 @@ Optional
 ### Operation
 - The list of current Jamf Pro Categories is retrieved on run
 - Category list is displayed to the user to choose from, as well as an option to create a new Category
-  - If new, user is prompted for the Category name and a POST command creates it
+  - If new, user is prompted for the Category name and priority, and a POST command creates it
 - The user is prompted to output the name or ID of the selected/newly created Category
 
 ### Output/s
