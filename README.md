@@ -1,4 +1,4 @@
-# ShortcutsForJamfPro
+# shortcutsForJamfPro
 A collection of Shortcuts for iOS, iPadOS, macOS and even sometimes watchOS to be used with Jamf Pro. 
 
 Each Shortcut is available in its own folder above, with its own readme to cover specific information. Read on below for general notes...
@@ -18,7 +18,7 @@ However, certain key Actions for workflows, such as QR Code scanning or NFC read
 ### Shortcuts as Functions/Helper Shortcuts
 From the moment I created this repo, I have agonised over this issue. I have for years been using the `Run Shortcut` Action to modularise certain functionality, and it is objectively and unassailably the smart way to be a Shortcuts power user. 
 
-But the spectre of Shortcut failure issues for new users that didn't understand which 'helper Shortcuts' they needed took me down the path of recreating every Shortcut Action by Action. Which honestly has been excruciating and definitely made getting a release together far more difficult. 
+But the spectre of Shortcut failure issues for new users that didn't understand which 'helper Shortcuts' they needed took me down the path of recreating every Shortcut Action by Action. Which honestly has been excruciating and definitely made getting a release together far more difficult and time-consuming. 
 
 Given this background, I am beyond excited to share that I have cracked this particular nut with [helperShortcutChecker](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperShortcutChecker)!!!
 
@@ -64,9 +64,10 @@ What's more, I'll now be updating each Shortcut's readme to clearly list require
 
 ## Tips, Troubleshooting & Known Issues:
 - Use folders for each Shortcut if editing/altering them. Trust me.
-- When creating, testing, or refining Shortcuts, consider creating a new version before making major changes. 
-- There is an almost endless undo ability within Shortcuts *until* you close and reopen it. Be mindful of this if working on complex Shortcuts
+- When creating, testing, or refining Shortcuts, consider creating a new version before making major changes 
+- There is an almost endless undo ability within Shortcuts *until* you close and reopen it. Be mindful of this if working on complex Shortcuts, and again, consider creating a new version before making major changes
 - The Mac app seems to encounter issues far more than the mobile version. Consider restarting the app at the first sign of lag dragging Actions around, beachballing on runs, or any other quirks
+  - I am yet to thoroughly test why this occurs, but it may be specific to my setup or the very heavy lifting some of my Shortcuts do. Having nearly 1,300 Shortcuts in my library may also contribute to the issue!
 
 
 ### Feedback
