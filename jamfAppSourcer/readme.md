@@ -48,17 +48,19 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 - Please use a single column .csv with this Shortcut containing app titles **ONLY**
 - Future version will include adding vendor names to commonly used and mis-titled apps (e.g. Photoshop to Adobe Photoshop, Office 365 to Microsoft Office 365) to reduce false negatives 
 - Installomator and MAS titles are derived directly from the source on run
-- Jamf App Installers and Patch Management titles are not anywhere I can find them to derive programmatically so I’ll update the GitHub .txt file every start of the month after new titles are announced (nbd: I’ve made another Shortcut to automate it as far as possible 😎)
-- The Results preview renders somewhat smaller on iPhone and I’ll address this in future version
+- Jamf Patch Management titles are not anywhere I can find them to derive programmatically so I’ll endeavour to update the GitHub .txt file after new titles are announced alongside Jamf Pro updatees (nbd: I’ve made another Shortcut to automate it as far as possible 😎)
+- The Results preview renders somewhat smaller on iPhone and I’ll address this in a future version
 - As always, please provide feedback if you encounter any issues
 
 ## Release Notes
+
+
 ### Version 1.1
 *Updated by Damian Cavanagh in August 2023*
 
 Included in this update:
 - added Jamf Patch Management as package source (feature request by [@marcusransom](https://github.com/marcusransom))
-- added new 'key' section to results preview (two Jamf sources but neither have a logo/icon)
+- added new 'key' section to results preview (two Jamf sources but neither have an official logo/icon that folks could recognise)
 - updated Jamf App Installers and Patch Management list location to [shortcutsForJamfPro/helperFiles](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperFiles) (moved from separate repo)
 - replaced comprehensive Shortcut notes in comment with basic notes and link to GitHub folder for full info
 - resolved error with text replacement when converting .csv results into rich text (will now only replace the result text and not partially replace app name strings with emoji)
