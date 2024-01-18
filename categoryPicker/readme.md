@@ -4,6 +4,10 @@
 
 This helper Shortcut is designed to be used within other Shortcuts where a Category needs to be chosen or created.  
 
+## Download This Shortcut
+- You can download this Shortcut [here](https://github.com/dhcav/ShortcutsForJamfPro/raw/main/categoryPicker/categoryPicker.shortcut)
+- It can also be downloaded by clicking the Shortcut file above, then clicking 'View Raw'
+
 
 ### Input/s
 Optional
