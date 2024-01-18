@@ -1,41 +1,50 @@
 # shortcutVersioner
 
-*Created by Damian Cavanagh in August 2023*
+***Created by Damian Cavanagh in August 2023***
 
-*WORK IN PROGRESS*
-
-This helper Shortcut checks the currentVersion of a parent Shortcut (from which it is run like a function using the Run Shortcut action) against the latest version on GitHub. 
-
-If a newer version is available, the user receives a prompt with the new version number, their current version number, and release notes (retrieved along with the latest version from GitHub), and presented with an option to obtain the new version from GitHub or ignore and continue. 
+This helper Shortcut checks the currentVersion of the main Shortcut (from which it is run like a function using the Run Shortcut action) against the version.json dictionary in the main Shortcut's folder on GitHub. 
 
 
-### Inputs
-Each Shortcut will feature a small dictionary holding:
+### Input/s
+Each main Shortcut will provide a small dictionary to shortcutVersioner, containing:
 - shortcutName
 - currentVersion
-- jamfProUrl
+*shortcutVersioner requires this dictionary as input and will not run without it* 
 
-This Shortcut uses the shortcutName to complete the URL for the gitHub repo to check the current version number against. 
+### Operation
+- Use the provided shortcutName to complete the URL to access version.json in the main Shortcut's GitHub folder
+- Check currentVersion against latestVersion
+  - If a newer version is available, the number and release notes will be presented to the user along with a choice to download and install the new version then exit the main Shortcut, or ignore and proceed with current version
+  - If no newer version is available, nothing will happen and the main Shortcut will continue
 
-### Output
-If a new version is available:
-- user is prompted to choose between obtaining the new version or ignoring and continuing
+### Output/s
+Boolean: true/false
+- All main Shortcuts using this workflow include logic to determine if a new version has been downloaded, and will exit if so. 
 
-If a new verison is NOT available:
-- nothing
+
+### Required Privileges
+- None (no Jamf API usage)
+
 
 ## Device/OS Compatibility
-- iPhone: ✅ (iOS 16)
-- iPad:  ✅ (iPadOS 16)
-- Mac:   ✅ (macOS 13 Ventura)
-- Apple Watch ✅ (watchOS 9)
+*OS versions listed below have been tested working. Earlier versions are assumed to be compatible given the basic nature of Actions used (most if not all date back to the Workflow days)*
+- iPhone: 		✅ (iOS 17)
+- iPad:  		✅ (iPadOS 17)
+- Mac:  		✅ (macOS 14 Sonoma)
+- Apple Watch: 	✅ (watchOS 10)
+
 
 ## Usage Notes
 - Usage is limited to responding to the choice presented if a new version is available
 - No configuration is required
 
-## Release Notes
-### Version 1.0
-*Created by Damian Cavanagh in August 2023*
-- Original functionality
 
+## Release Notes
+### Version 1.1
+*Released in January 2024*
+- various user communication enhancements
+- added logic to handle exiting the main Shortcut
+
+### Version 1.0
+*Created in August 2023*
+- Original functionality
