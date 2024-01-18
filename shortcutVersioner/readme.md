@@ -15,7 +15,7 @@ Each main Shortcut will provide a small dictionary to shortcutVersioner, contain
 - Use the provided shortcutName to complete the URL to access version.json in the main Shortcut's GitHub folder (an example dictionary is included in this folder)
 - Check currentVersion against latestVersion
   - If a newer version is available, the number and release notes will be presented to the user along with a choice to download and install the new version then exit the main Shortcut, or ignore and proceed with current version
-  - If no newer version is available, nothing will happen and the main Shortcut will continue
+  - If no newer version is available, or if the ignore option is selected, nothing will happen and the main Shortcut will continue
 
 ### Output/s
 Boolean: true/false
@@ -48,4 +48,3 @@ Boolean: true/false
 ### Version 1.0
 *Created in August 2023*
 - Original functionality
-
