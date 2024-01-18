@@ -1,37 +1,81 @@
-# ShortcutsForJamfPro
-A collection of Shortcuts for iOS, iPadOS, macOS and even sometimes watchOS to be used with Jamf Pro. 
+# jamfAppSourcer
 
+This Shortcut is designed to simplify determining the optimal packaging workflow for a list of apps by listing availability of the given title/s in the four auto-packaging/distribution utilities listed below. While this is not a common task for most production environments, it is a regular chore for Jamf *partners* such as consultants, MSPs etc supporting our customers.
 
-## Notes
-Repo is under construction. Follow or check back regularly for new Shortcuts!
+If a full match is not found, the Shortcut will attempt to match the first word to indicate the need to investigate further. 
 
+This Shortcut is intended to run by itself and does not relate directly to any other Shortcuts. 
 
-### Shortcut Compatibility
-- macOS 13 Ventura
-- iOS/iPadOS 16
-- watchOS 9
+### Input
+- List of application titles in CSV format (single column, no header)
 
-Unless otherwise noted, all Shortcuts will be fully self-contained and not run other Shortcuts or use third party apps. Where possible, they will be device-agnostic in using Actions that are present on all supported OSs (e.g. avoiding Mac-only Actions). 
+### Auto-packaging Sources
+- Installomator
+- Jamf App Installers
+- Jamf Patch Management
+- Mac App Store
 
+### Output
+- Search Results (Yes/Partial/No in Rich Text)
 
-### Security
-Just want to clearly state that I'm not happy about having to encode Jamf Pro credentials in plain text. You could change this to ask for username/password each time it's run but that's a terrible user experience. 
+#### Export Results as:
+- CSV (plain text)
+- PDF (rich text)
+- HTML (rich text)
+- PNG (rich text)
 
-Until there is a Jamf Shortcuts app to provide auth via approved Actions this is the simplest way. I have devised a system using the Data Jar app to store credentials and Jamf server info outside of the shortcut itself (which incidentally supports multiple servers and accounts under each) but this approach requires reasonably advanced Shortcuts knowledge so will be released sometime in future. 
+## Device/OS Compatibility
+- iPhone: ✅ (iOS 16)
+- iPad:  ✅ (iPadOS 16)
+- Mac:   ✅ (macOS 13 Ventura)
+- Apple Watch ❌
 
-***Unless you have customised one of my Shortcuts to your environment and are sharing within your team, I strongly suggest you share via this GitHub page to reduce the chance of inadvertantly sharing your Jamf API account's credentials!***
+## How to Use
+#### From Finder/Files (anywhere you can right-click or share the .csv)
+1. Right click on .csv file and select Quick Actions (Mac) or tap Share button (mobile)
+2. Select this Shortcut
+3. View Preview (HTML)
+4. Choose format to save/share
 
+#### Standalone (from Shortcuts or Menu Bar)
+1. Run the Shortcut
+2. Select the .csv file as prompted
+3. View Preview (HTML)
+4. Choose format to save/share
 
-### Troubleshooting & Known Issues:
-Shortcuts can at times be a capricious little beast, so if encountering an issue try quitting and reopening the app, and restarting if it persists. Aside from that:
-- Ensure you have populated your credentials in the correct fields. I attempt to use the 'Import Questions' feature to request this on first installing the Shortcut but know this doesn't always happen
-- Jamf Pro user accounts using federated auth (e.g. Azure AD) are not currently supported. Investigating suporting this currently as this may faciliate a better approach to security
+## Usage Notes
+- Requires Jamf Pro version 10.39
+- Please use a single column .csv with this Shortcut containing app titles **ONLY**
+- Future version will include adding vendor names to commonly used and mis-titled apps (e.g. Photoshop to Adobe Photoshop, Office 365 to Microsoft Office 365) to reduce false negatives 
+- Installomator and MAS titles are derived directly from the source on run
+- Jamf Patch Management titles are not anywhere I can find them to derive programmatically so I’ll endeavour to update the GitHub .txt file after new titles are announced alongside Jamf Pro updatees (nbd: I’ve made another Shortcut to automate it as far as possible 😎)
+- The Results preview renders somewhat smaller on iPhone and I’ll address this in a future version
+- As always, please provide feedback if you encounter any issues
 
+## Release Notes
+### Version 1.2
+*Updated by Damian Cavanagh in January 2024*
 
-### Feedback
-We're essentially in the pre-history of Shortcuts being used for Mac Admin workflows. As such, please feed back any issues that you encounter with these Shortcuts as issues or via the Mac Admins Slack (I'm d.cav).
+Included in this update:
+- Now retrieve Jamf App Installers titles list programmatically via API on run! 
+  - No more manual maintenance of the list on my GitHub! 🥳
+  - Credit to Tyler Talaga ([@tyler-tee](https://github.com/tyler-tee)) for sharing [these (currently) undocumented Jamf App Installers endpoints at JNUC23](https://github.com/tyler-tee/JNUC-2023")
+  - Thanks to Daniel MacLaughlin ([daniel-maclaughlin](https://github.com/daniel-maclaughlin)) for putting me on to it and reminding me I didn't make it that far through my JNUC watchlist
+- Added support for new [shortcutVersioner](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/shortcutVersioner) workflow
+  - If there's a new version, you'll be given a choice to install (with one click/tap!!!) or ignore and continue with your installed version 
+- Added support for new [helperShortcutChecker](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperShortcutChecker) workflow
+  - Currently only used for shortcutVersioner, but likely to be used heavily in future versions
+  
+### Version 1.1
+*Updated by Damian Cavanagh in August 2023*
 
-I am particularly keen on feedback on:
-- Input methods to support. This all began with a QR code of the device's serial but have since expanded to using the Jamf Pro Mac invoentory page's URL, clipboard, using Asset Tags instead of serials in the QR. I am currently working on being able to use a CSV in order to get MUT-like capabilities. Ideas of this type greatly appreciated
-- More efficient API calls. I am self-taught and constantly learning newer, better ways of doing things - both with Shortcuts and APIs. As I get around to uploading all my shortcuts, you may notice a increase in sophistication from when I started a few years ago to now. If you have experience with RESTful APIs and notice any quick wins, or even basic errors, please let me know
+Included in this update:
+- added Jamf Patch Management as package source (feature request by [@marcusransom](https://github.com/marcusransom))
+- added new 'key' section to results preview (two Jamf sources but neither have an official logo/icon that folks could recognise)
+- updated Jamf App Installers and Patch Management list location to [shortcutsForJamfPro/helperFiles](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/helperFiles) (moved from separate repo)
+- replaced comprehensive Shortcut notes in comment with basic notes and link to GitHub folder for full info
+- resolved error with text replacement when converting .csv results into rich text (will now only replace the result text and not partially replace app name strings with emoji)
+- fixed error in which check for 'Partial Match' on Jamf App Installers was operating on incorrect variable and always resulted in Partial match - meaning no app ever received the 'No Match' result for this source
 
+### Version 1.0
+*Created by Damian Cavanagh in July 2023*
