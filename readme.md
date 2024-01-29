@@ -7,7 +7,7 @@ Each Shortcut is available in its own folder above, with its own readme to cover
 ### Operating Systems
 Most if not all Actions used in my Shortcuts date back to the Workflow days, so OS compatibility is not expected to be an issue. 
 
-Each Shortcut will list the OSs they've been test on, but this is not something you should spend a lot of time worrying about. 
+Each Shortcut will list the OSs they've been tested on, but this is not something you should spend a lot of time worrying about. 
 
 ### Devices
 Where possible, these Shortcuts will be device-agnostic in only using Actions that are present on all supported OSs (e.g. avoiding Mac-only Actions). 
