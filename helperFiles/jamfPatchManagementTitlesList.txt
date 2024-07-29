@@ -13,6 +13,8 @@ Ableton Live 10 Lite
 Ableton Live 10 Suite
 Ableton Live 11 Lite
 Ableton Live 11 Suite
+Ableton Live 12 Lite
+Ableton Live 12 Suite
 Ableton Live 9 Suite
 Ableton Live Lite (Combined Definition)
 Ableton Live Suite (Combined Definition)
@@ -23,6 +25,7 @@ Adium
 Adobe Acrobat 2015 Classic
 Adobe Acrobat 2017 Classic
 Adobe Acrobat 2020 Classic
+Adobe Acrobat Classic
 Adobe Acrobat DC Classic (Combined Definition)
 Adobe Acrobat DC Continuous
 Adobe Acrobat Reader 2015 Classic
@@ -315,6 +318,7 @@ Alfred 3
 Alfred 4
 Alfred 5
 Alice 3
+Altair GraphQL Client
 Amadeus Pro
 Amazon AWS VPN Client
 Amazon Chime
@@ -327,6 +331,7 @@ Amazon Corretto 18
 Amazon Corretto 19
 Amazon Corretto 20
 Amazon Corretto 21
+Amazon Corretto 22
 Amazon Corretto 8
 Amazon Kindle
 Amazon WorkSpaces
@@ -356,6 +361,7 @@ Apple macOS Monterey
 Apple macOS Sierra
 Apple macOS Sonoma
 Apple macOS Ventura
+Apple macOS
 Apple Numbers
 Apple OS X El Capitan
 Apple OS X Yosemite
@@ -377,7 +383,6 @@ aText
 Atlassian Companion
 Atlassian Sourcetree
 Audacity
-Audio Hijack
 Authy Desktop
 AWS Wickr
 Axure RP (Combined Definition)
@@ -390,7 +395,9 @@ Bare Bones TextWrangler
 Basecamp 3
 Bear
 BetterTouchTool
+Beyond Compare (Combined Definition)
 Beyond Compare 4
+Beyond Compare 5
 BibDesk
 Bitwarden
 Blackmagic DaVinci Resolve
@@ -404,6 +411,7 @@ Box Sync
 Brave Browser
 Burp Suite Community Edition
 BusyCal 3
+Caffeine (Combined Definition)
 Caffeine
 Cakebrew
 calibre
@@ -413,6 +421,7 @@ Carbon Copy Cloner (Combined Definition)
 Carbon Copy Cloner 4
 Carbon Copy Cloner 5
 Carbon Copy Cloner 6
+Carbon Copy Cloner 7
 CatoClient
 CCleaner
 Charles Proxy
@@ -465,6 +474,8 @@ DbVisualizer 14
 DbVisualizer 23
 DbVisualizer 24
 Debookee
+DeepL
+Deezer
 DetectX Swift
 Dialpad
 Discord
@@ -474,9 +485,11 @@ Docker Desktop
 Docker Kitematic
 Drafts
 Dragonframe (Combined Definition)
+Dragonframe 2024
 Dragonframe 3
 Dragonframe 4
 Dragonframe 5
+draw.io
 Dropbox Capture
 Dropbox
 Duet
@@ -504,6 +517,7 @@ Eclipse Temurin (JRE) 18
 Eclipse Temurin (JRE) 19
 Eclipse Temurin (JRE) 20
 Eclipse Temurin (JRE) 21
+Eclipse Temurin (JRE) 22
 Eclipse Temurin (JRE) 8
 Eclipse Temurin 11
 Eclipse Temurin 16
@@ -512,6 +526,7 @@ Eclipse Temurin 18
 Eclipse Temurin 19
 Eclipse Temurin 20
 Eclipse Temurin 21
+Eclipse Temurin 22
 Eclipse Temurin 8
 Egnyte Connect
 Egnyte WebEdit
@@ -572,6 +587,7 @@ Flow
 FlowJo
 Flux
 Flycut
+FontForge
 Fork
 ForkLift 3
 FortiClient (Combined Definition)
@@ -580,6 +596,7 @@ FortiClient 6.2
 FortiClient 6.4
 FortiClient 7.0
 FortiClient 7.2
+FortiClient 7.4
 Foxit PDF Editor
 Foxit PhantomPDF
 Franz
@@ -626,6 +643,8 @@ IBM Semeru Runtime (OpenJ9) 17
 IBM Semeru Runtime (OpenJ9) 18
 IBM Semeru Runtime (OpenJ9) 19
 IBM Semeru Runtime (OpenJ9) 20
+IBM Semeru Runtime (OpenJ9) 21
+IBM Semeru Runtime (OpenJ9) 22
 IBM Semeru Runtime (OpenJ9) 8
 IBM Semeru Runtime (OpenJ9, JRE) (Combined Definition)
 IBM Semeru Runtime (OpenJ9, JRE) 11
@@ -634,6 +653,8 @@ IBM Semeru Runtime (OpenJ9, JRE) 17
 IBM Semeru Runtime (OpenJ9, JRE) 18
 IBM Semeru Runtime (OpenJ9, JRE) 19
 IBM Semeru Runtime (OpenJ9, JRE) 20
+IBM Semeru Runtime (OpenJ9, JRE) 21
+IBM Semeru Runtime (OpenJ9, JRE) 22
 IBM Semeru Runtime (OpenJ9, JRE) 8
 IGV
 iLok License Manager
@@ -655,6 +676,7 @@ Itsycal
 iZotope Product Portal
 Jabra Direct
 Jamf Admin
+Jamf Aftermath
 Jamf Composer
 Jamf Connect Configuration
 Jamf Connect Login
@@ -669,8 +691,10 @@ Jamf Protect
 Jamf Recon
 Jamf Remote
 Jamf Self Service for macOS
+Jamf Trust
 JamfCheck
 JetBrains AppCode
+Jetbrains Aqua
 JetBrains CLion
 JetBrains DataGrip
 JetBrains DataSpell
@@ -682,6 +706,7 @@ JetBrains PyCharm Community
 JetBrains PyCharm Professional
 JetBrains Rider
 JetBrains RubyMine
+Jetbrains RustRover
 JetBrains Toolbox
 JetBrains WebStorm
 join.me
@@ -704,6 +729,9 @@ KeyShot 11
 KeyShot 2023 Network Rendering
 KeyShot 2023 Viewer
 KeyShot 2023
+KeyShot 2024 Network Rendering
+KeyShot 2024 Viewer
+KeyShot 2024
 KeyShot 9 Network Rendering
 KeyShot 9 Viewer
 KeyShot 9
@@ -733,6 +761,8 @@ Lingon X9
 Little Snitch (Combined Definition)
 Little Snitch 4
 Little Snitch 5
+Little Snitch 6
+Logi Options+
 Logitech Capture
 Logitech Options
 Logitech Presentation
@@ -742,7 +772,6 @@ LogMeIn GoToMeeting
 LogMeIn LastPass
 Loom
 MacDown
-macOS
 MacPass
 MacVector
 Malwarebytes 4
@@ -752,9 +781,9 @@ Mattermost
 Max (Combined Definition)
 Max 7
 Max 8
-McAfee Endpoint Security for Mac
 MediaInfo
 Mendeley Desktop
+Mendeley Reference Manager
 MenuMeters
 Mersive Solstice
 Meta Spark Studio
@@ -805,7 +834,7 @@ Microsoft Remote Desktop 10
 Microsoft Silverlight
 Microsoft Skype for Business
 Microsoft Skype
-Microsoft Teams (work or school)
+Microsoft Teams classic
 Microsoft Teams
 Microsoft Visual Studio (Combined Definition)
 Microsoft Visual Studio 2019
@@ -851,6 +880,7 @@ Node.js 18
 Node.js 19
 Node.js 20
 Node.js 21
+Node.js 22
 Node.js 4
 Node.js 5
 Node.js 6
@@ -858,6 +888,7 @@ Node.js 7
 Node.js 8
 Node.js 9
 NoMachine Client
+NordLayer
 Notion
 Noun Project
 Nudge
@@ -865,6 +896,7 @@ OBS Studio
 Obsidian
 Octave
 Octory
+Okta Verify
 OmniFocus (Combined Definition)
 OmniFocus 2
 OmniFocus 3
@@ -898,6 +930,7 @@ Oracle Java SE Development Kit 18
 Oracle Java SE Development Kit 19
 Oracle Java SE Development Kit 20
 Oracle Java SE Development Kit 21
+Oracle Java SE Development Kit 22
 Oracle Java SE Development Kit 7
 Oracle Java SE Development Kit 8 (CPU)
 Oracle Java SE Development Kit 8
@@ -953,6 +986,7 @@ Parallels Desktop 19
 Pencil2D
 Perimeter 81
 pgAdmin 4
+Phoenix Code
 Photo Mechanic 6
 Pika
 PIX 2
@@ -978,6 +1012,7 @@ ProfileCreator
 ProtoPie
 Proxifier 3
 Proxyman
+PrusaSlicer
 PyMOL
 Python (Combined Definition)
 Python 2
@@ -1019,11 +1054,19 @@ RingCentral App
 RingCentral Classic App
 RingCentral Meetings
 RingCentral Phone
+Rogue Amoeba Audio Hijack
+Rogue Amoeba Farrago (Combined Definition)
+Rogue Amoeba Farrago 2
+Rogue Amoeba Farrago
+Rogue Amoeba Loopback (Combined Definition)
+Rogue Amoeba Loopback 2
+Rogue Amoeba Loopback
 Root3 Support
 Royal TSX
 RStudio Desktop
 SAP Icons
 SAP Privileges
+Sassafras KeyAccess Client
 ScaleFT
 Screaming Frog SEO Spider
 Scribus
@@ -1091,6 +1134,8 @@ Tableau Desktop 2022.4
 Tableau Desktop 2023.1
 Tableau Desktop 2023.2
 Tableau Desktop 2023.3
+Tableau Desktop 2024.1
+Tableau Desktop 2024.2
 Tableau Desktop 8.2
 Tableau Desktop 8.3
 Tableau Desktop 9.0
@@ -1119,6 +1164,7 @@ TechSmith Camtasia 2020
 TechSmith Camtasia 2021
 TechSmith Camtasia 2022
 TechSmith Camtasia 2023
+TechSmith Camtasia 2024
 TechSmith Snagit (Combined Definition)
 TechSmith Snagit 2018
 TechSmith Snagit 2019
@@ -1138,6 +1184,7 @@ The Unarchiver
 Thonny
 Thorium Reader
 Toggl Desktop
+TOPCAT-FULL
 Tor Browser
 Tower
 Trello
@@ -1153,6 +1200,7 @@ Trimble SketchUp 2020
 Trimble SketchUp 2021
 Trimble SketchUp 2022
 Trimble SketchUp 2023
+Trimble SketchUp 2024
 Tunnelblick
 Tuxera NTFS for Mac
 TweetDeck
@@ -1165,6 +1213,7 @@ Unity 2020
 Unity 2021
 Unity 2022
 Unity 2023
+Unity 6
 Unity Hub
 UTM
 Vagrant
@@ -1228,6 +1277,7 @@ XQuartz
 YakYak
 YourKit Java Profiler
 YubiKey Manager
+Zed
 Zeplin
 Zoom Client for Meetings
 Zoom Plugin for Microsoft Outlook
@@ -1246,5 +1296,6 @@ Zulu OpenJDK 18
 Zulu OpenJDK 19
 Zulu OpenJDK 20
 Zulu OpenJDK 21
+Zulu OpenJDK 22
 Zulu OpenJDK 8
 Zulu OpenJDK 9
