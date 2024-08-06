@@ -36,7 +36,7 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 - Apple Watch ❌
 
 ## Privileges Required
-- Read Mac Applications
+- Read Mac Applications (see Shortcut in this folder to create API role with required permission/s)
 
 ## How to Use
 #### From Finder/Files (anywhere you can right-click or share the .csv)
@@ -52,15 +52,22 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 4. Choose format to save/share
 
 ## Usage Notes
-- Requires Jamf Pro version 10.39
+- Requires Jamf Pro version 10.39+
+- Requires (Jamf Actions)[https://trusted.jamf.com/concepts/docs/jamf-actions]
 - Please use a single column .csv with this Shortcut containing app titles **ONLY**
 - Future version will include adding vendor names to commonly used and mis-titled apps (e.g. Photoshop to Adobe Photoshop, Office 365 to Microsoft Office 365) to reduce false negatives 
-- Installomator and MAS titles are derived directly from the source on run
+- Jamf App Installers Software Titles, Installomator and MAS titles are derived directly from the source on run
 - Jamf Patch Management titles are not anywhere I can find them to derive programmatically so I’ll endeavour to update the GitHub .txt file after new titles are announced alongside Jamf Pro updatees (nbd: I’ve made another Shortcut to automate it as far as possible 😎)
 - The Results preview renders somewhat smaller on iPhone and I’ll address this in a future version
 - As always, please provide feedback if you encounter any issues
 
 ## Release Notes
+### Version 1.3
+*Updated by Damian Cavanagh in August 2024*
+
+Included in this update:
+- Now uses (Jamf Actions)[https://trusted.jamf.com/concepts/docs/jamf-actions] to provide authentication for Jamf Pro API call to retrieve Jamf App Installers Software Titles
+
 ### Version 1.2
 *Updated by Damian Cavanagh in January 2024*
 
