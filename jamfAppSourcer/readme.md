@@ -53,7 +53,7 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 
 ## Usage Notes
 - Requires Jamf Pro version 10.39+
-- Requires (Jamf Actions)[https://trusted.jamf.com/concepts/docs/jamf-actions]
+- Requires [Jamf Actions](https://trusted.jamf.com/concepts/docs/jamf-actions)
 - Please use a single column .csv with this Shortcut containing app titles **ONLY**
 - Future version will include adding vendor names to commonly used and mis-titled apps (e.g. Photoshop to Adobe Photoshop, Office 365 to Microsoft Office 365) to reduce false negatives 
 - Jamf App Installers Software Titles, Installomator and MAS titles are derived directly from the source on run
@@ -66,7 +66,7 @@ This Shortcut is intended to run by itself and does not relate directly to any o
 *Updated by Damian Cavanagh in August 2024*
 
 Included in this update:
-- Now uses (Jamf Actions)[https://trusted.jamf.com/concepts/docs/jamf-actions] to provide authentication for Jamf Pro API call to retrieve Jamf App Installers Software Titles
+- Now uses [Jamf Actions](https://trusted.jamf.com/concepts/docs/jamf-actions) to provide authentication for Jamf Pro API call to retrieve Jamf App Installers Software Titles
 
 ### Version 1.2
 *Updated by Damian Cavanagh in January 2024*
