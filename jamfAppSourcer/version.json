@@ -1,5 +1,5 @@
 {
-  "latestVersion":"1.2",
-  "releaseNotes":"- IMPROVED FUNCTIONALITY: retrieve Jamf App Installers titles list via API! No more manual maintenance of the list on my GitHub! 🥳,  - Credit to Tyler Talaga (via Daniel MacLaughlin) for sharing these (currently) undocumented endpoints: https://github.com/tyler-tee/JNUC-2023",
+  "latestVersion":"1.3",
+  "releaseNotes":"- IMPROVED FUNCTIONALITY: Shortcut now uses Jamf Actions for retrieving Jamf App Installers Software Titles",
   "downloadURL":"https://github.com/dhcav/ShortcutsForJamfPro/raw/main/jamfAppSourcer/jamfAppSourcer.shortcut"
 }
