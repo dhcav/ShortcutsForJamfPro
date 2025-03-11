@@ -1,11 +1,11 @@
 # shortcutsForJamfPro
-A collection of Shortcuts for iOS, iPadOS, macOS and even sometimes watchOS to be used with Jamf Pro. 
+A collection of Shortcuts for iOS, iPadOS, macOS, visionOS and even sometimes watchOS to be used with Jamf Pro. 
 
 Each Shortcut is available in its own folder above, with its own readme to cover specific information. Read on below for general notes...
 
 ## Shortcut Compatibility
 ### Operating Systems
-Most if not all Actions used in my Shortcuts date back to the Workflow days, so OS compatibility is not expected to be an issue. 
+Many, if not most, Actions used in my Shortcuts date back to the Workflow days, so OS compatibility is not expected to be an issue. 
 
 Each Shortcut will list the OSs they've been tested on, but this is not something you should spend a lot of time worrying about. 
 
@@ -42,11 +42,11 @@ Even with my significant head start compared to most (all?) Mac Admins, I'm lear
 
 ## Security
 ### Authentication
-I used quite strong language in this section of the original version of this readme. 
+~~It is still true that until there is a Jamf Shortcuts app to provide auth via approved Actions, we can't avoid having credentials appear in plain text.~~
 
-It is still true that until there is a Jamf Shortcuts app to provide auth via approved Actions, we can't avoid having credentials appear in plain text.
+Jamf have released [Jamf Actions](https://github.com/Jamf-Concepts/actions) for macOS which provides fully-secure Actions for Shortcuts, supporting both username/password and API role/client authentication. 
 
-But in the meantime, Jamf's new API Role/Client authentication option has effectively eliminated the risk of credentials improperly shared within a Shortcut being used to access the Jamf Pro GUI. And now that helper Shortcuts are in play, setting one up with your Client ID and Secret to generate the token and pass through to the main Shortcut is a piece of cake. 
+For non-Mac usage, Jamf's API Role/Client authentication option has effectively eliminated the risk of credentials improperly shared within a Shortcut being used to access the Jamf Pro GUI. And now that helper Shortcuts are in play, setting one up with your Client ID and Secret to generate the token and pass through to the main Shortcut is a piece of cake. 
 
 Of course I wouldn't make you create one from scratch though. See [getJamfProUrlAndToken_server_apiClient](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/getJamfProUrlAndToken_server_apiClient) for more info. 
 
@@ -57,7 +57,7 @@ An 'import question' to prompt for the name of the desired version of getJamfPro
 Finally, the added bonus of this approach is that it's a convenient place to record your Jamf Server URL - meaning any main Shortcut is entirely free of identifying information!!! 
 
 ### Privileges
-Another new Shortcut to make this chore easier! apiRoleCreator will retrieve the full list of privileges, allow you to select any or all of them, then create a new API Role. It'll even take you  straight to the 'new API Client' page in the GUI to quickly add the role and grab the credentials, or the API Client tab to add it to an existing client. 
+Another new Shortcut to make this chore easier! [apiRoleCreator](https://github.com/dhcav/ShortcutsForJamfPro/tree/main/apiRoleCreator) will retrieve the full list of privileges, allow you to select any or all of them, then create a new API Role. It'll even take you  straight to the 'new API Client' page in the GUI to quickly add the role and grab the credentials, or the API Client tab to add it to an existing client. 
 
 What's more, I'll now be updating each Shortcut's readme to clearly list required privileges, and if I'm feeling really energised I'll actually just make a version of apiRoleCreator for each one that you can quickly run and add to your client of choice.
 
