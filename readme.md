@@ -5,14 +5,16 @@ Each Shortcut is available in its own folder above, with its own readme to cover
 
 ## Shortcut Compatibility
 ### Operating Systems
-Many, if not most, Actions used in my Shortcuts date back to the Workflow days, so OS compatibility is not expected to be an issue. 
+Many, if not most, Actions used in my Shortcuts date back to the Workflow days, so OS compatibility is not expected to be an issue when dealing with OS upgrades. 
 
 Each Shortcut will list the OSs they've been tested on, but this is not something you should spend a lot of time worrying about. 
 
 ### Devices
-Where possible, these Shortcuts will be device-agnostic in only using Actions that are present on all supported OSs (e.g. avoiding Mac-only Actions). 
+My original intention was to make these Shortcuts device-agnostic, in only using Actions that are present on all supported OSs (e.g. avoiding Mac-only Actions). 
 
-However, certain key Actions for workflows, such as QR Code scanning or NFC reading, may be used and will be noted if so.
+This has been complicated by the release of [Jamf Actions](https://github.com/Jamf-Concepts/actions), which is a macOS-only app, but is the only properly secure method for authenticating Shortcuts. 
+
+Given that one of the key benefits of my earlier work was about providing access to the power of Jamf's APIs while away from your desk/Mac, often using mobile-only or device specific Actions, I hope that there is a mobile version of Jamf Actions soon!
 
 ## Shortcut Operation
 ### Shortcuts as Functions/Helper Shortcuts
