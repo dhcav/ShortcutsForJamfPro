@@ -28,6 +28,7 @@ Adobe Acrobat 2020 Classic
 Adobe Acrobat Classic
 Adobe Acrobat DC Classic (Combined Definition)
 Adobe Acrobat DC Continuous
+Adobe Acrobat Reader (Unified) DC Continuous
 Adobe Acrobat Reader 2015 Classic
 Adobe Acrobat Reader 2017 Classic
 Adobe Acrobat Reader 2020 Classic
@@ -41,6 +42,8 @@ Adobe After Effects 2021
 Adobe After Effects 2022
 Adobe After Effects 2023
 Adobe After Effects 2024
+Adobe After Effects 2025
+Adobe After Effects 2026
 Adobe After Effects CC 2014
 Adobe After Effects CC 2015.3
 Adobe After Effects CC 2015
@@ -67,6 +70,8 @@ Adobe Audition 2021
 Adobe Audition 2022
 Adobe Audition 2023
 Adobe Audition 2024
+Adobe Audition 2025
+Adobe Audition 2026
 Adobe Audition CC 2014
 Adobe Audition CC 2015.2
 Adobe Audition CC 2015
@@ -82,6 +87,8 @@ Adobe Bridge 2021
 Adobe Bridge 2022
 Adobe Bridge 2023
 Adobe Bridge 2024
+Adobe Bridge 2025
+Adobe Bridge 2026
 Adobe Bridge CC 2015
 Adobe Bridge CC 2017
 Adobe Bridge CC 2018
@@ -90,6 +97,8 @@ Adobe Bridge CC
 Adobe Bridge CS6
 Adobe Camera Raw CC
 Adobe Captivate (Combined Definition)
+Adobe Captivate 12
+Adobe Captivate 13
 Adobe Captivate 2017
 Adobe Captivate 2019
 Adobe Captivate 6
@@ -102,6 +111,8 @@ Adobe Character Animator 2021
 Adobe Character Animator 2022
 Adobe Character Animator 2023
 Adobe Character Animator 2024
+Adobe Character Animator 2025
+Adobe Character Animator 2026
 Adobe Character Animator CC 2018
 Adobe Character Animator CC 2019
 Adobe Connect
@@ -141,6 +152,8 @@ Adobe Illustrator 2021
 Adobe Illustrator 2022
 Adobe Illustrator 2023
 Adobe Illustrator 2024
+Adobe Illustrator 2025
+Adobe Illustrator 2026
 Adobe Illustrator CC 2014
 Adobe Illustrator CC 2015.3
 Adobe Illustrator CC 2015
@@ -155,6 +168,8 @@ Adobe InCopy 2021
 Adobe InCopy 2022
 Adobe InCopy 2023
 Adobe InCopy 2024
+Adobe InCopy 2025
+Adobe InCopy 2026
 Adobe InCopy CC 2014
 Adobe InCopy CC 2015
 Adobe InCopy CC 2017
@@ -168,6 +183,8 @@ Adobe InDesign 2021
 Adobe InDesign 2022
 Adobe InDesign 2023
 Adobe InDesign 2024
+Adobe InDesign 2025
+Adobe InDesign 2026
 Adobe InDesign CC 2014
 Adobe InDesign CC 2015
 Adobe InDesign CC 2017
@@ -186,6 +203,8 @@ Adobe Media Encoder 2021
 Adobe Media Encoder 2022
 Adobe Media Encoder 2023
 Adobe Media Encoder 2024
+Adobe Media Encoder 2025
+Adobe Media Encoder 2026
 Adobe Media Encoder CC 2014
 Adobe Media Encoder CC 2015.3
 Adobe Media Encoder CC 2015
@@ -207,6 +226,8 @@ Adobe Photoshop 2021
 Adobe Photoshop 2022
 Adobe Photoshop 2023
 Adobe Photoshop 2024
+Adobe Photoshop 2025
+Adobe Photoshop 2026
 Adobe Photoshop Camera Raw CC
 Adobe Photoshop Camera Raw CS6
 Adobe Photoshop CC 2014
@@ -236,6 +257,8 @@ Adobe Premiere Pro 2021
 Adobe Premiere Pro 2022
 Adobe Premiere Pro 2023
 Adobe Premiere Pro 2024
+Adobe Premiere Pro 2025
+Adobe Premiere Pro 2026
 Adobe Premiere Pro CC 2014
 Adobe Premiere Pro CC 2015.3
 Adobe Premiere Pro CC 2015
@@ -309,6 +332,8 @@ Affinity Photo
 Affinity Publisher (Combined Definition)
 Affinity Publisher 2
 Affinity Publisher
+Affinity
+Aircall Workspace
 Aircall
 Airtame
 AlDente Classic
@@ -319,9 +344,11 @@ Alfred 4
 Alfred 5
 Alice 3
 Altair GraphQL Client
+AltTab
 Amadeus Pro
 Amazon AWS VPN Client
 Amazon Chime
+Amazon Connectivity Client
 Amazon Corretto (Combined Definition)
 Amazon Corretto 11
 Amazon Corretto 15
@@ -332,9 +359,13 @@ Amazon Corretto 19
 Amazon Corretto 20
 Amazon Corretto 21
 Amazon Corretto 22
+Amazon Corretto 23
+Amazon Corretto 24
+Amazon Corretto 25
 Amazon Corretto 8
 Amazon Kindle
 Amazon WorkSpaces
+Amethyst
 Anki
 AnyDesk
 Apache NetBeans
@@ -349,8 +380,12 @@ Apple Install macOS Catalina
 Apple Install macOS High Sierra
 Apple Install macOS Mojave
 Apple Install macOS Monterey
+Apple Install macOS Sequoia
 Apple Install macOS Sonoma
+Apple Install macOS Tahoe
 Apple Install macOS Ventura
+Apple Keynote (Combined Definition)
+Apple Keynote Creator Studio
 Apple Keynote
 Apple macOS (Combined Definition)
 Apple macOS Big Sur
@@ -358,19 +393,26 @@ Apple macOS Catalina
 Apple macOS High Sierra
 Apple macOS Mojave
 Apple macOS Monterey
+Apple macOS Sequoia
 Apple macOS Sierra
 Apple macOS Sonoma
+Apple macOS Tahoe
 Apple macOS Ventura
 Apple macOS
+Apple Numbers (Combined Definition)
+Apple Numbers Creator Studio
 Apple Numbers
 Apple OS X El Capitan
 Apple OS X Yosemite
+Apple Pages (Combined Definition)
+Apple Pages Creator Studio
 Apple Pages
 Apple Safari
 Apple Swift Playgrounds
 Apple Xcode
 Aquamacs
 Arc
+Arcade
 Arduino IDE (Combined Definition)
 Arduino IDE
 Arduino
@@ -384,12 +426,15 @@ Atlassian Companion
 Atlassian Sourcetree
 Audacity
 Authy Desktop
+Autodesk Fusion
 AWS Wickr
 Axure RP (Combined Definition)
 Axure RP 10
+Axure RP 11
 Axure RP 9
 balenaEtcher
 Balsamiq Wireframes
+Bambu Studio
 Bare Bones BBEdit
 Bare Bones TextWrangler
 Basecamp 3
@@ -409,14 +454,17 @@ Box Drive
 Box Notes
 Box Sync
 Brave Browser
+Bruno
 Burp Suite Community Edition
 BusyCal 3
 Caffeine (Combined Definition)
+Caffeine
 Caffeine
 Cakebrew
 calibre
 Callbar
 Canon UFR II Printer Driver
+Canva
 Carbon Copy Cloner (Combined Definition)
 Carbon Copy Cloner 4
 Carbon Copy Cloner 5
@@ -440,7 +488,9 @@ Citrix ShareFile for Mac
 Citrix Workspace (Combined Definition)
 Citrix Workspace
 ClamXAV
+Claude Desktop
 ClickShare
+ClickUp
 Clip Studio Paint
 CloudApp
 Cloudflare WARP
@@ -456,6 +506,7 @@ CrashPlan
 Cricut Design Space
 CrisisGo
 CrossOver
+Cursor AI
 Cypress
 DaisyDisk
 Dash
@@ -473,10 +524,14 @@ DbVisualizer 13
 DbVisualizer 14
 DbVisualizer 23
 DbVisualizer 24
+DbVisualizer 25
+DbVisualizer 26
 Debookee
 DeepL
 Deezer
+Delinea Connection Manager
 DetectX Swift
+Determinate Nix
 Dialpad
 Discord
 DisplayLink Manager
@@ -486,12 +541,15 @@ Docker Kitematic
 Drafts
 Dragonframe (Combined Definition)
 Dragonframe 2024
+Dragonframe 2025
+Dragonframe 2026
 Dragonframe 3
 Dragonframe 4
 Dragonframe 5
 draw.io
 Dropbox Capture
 Dropbox
+Druva inSync
 Duet
 Duo Desktop
 EasyFind
@@ -518,6 +576,9 @@ Eclipse Temurin (JRE) 19
 Eclipse Temurin (JRE) 20
 Eclipse Temurin (JRE) 21
 Eclipse Temurin (JRE) 22
+Eclipse Temurin (JRE) 23
+Eclipse Temurin (JRE) 24
+Eclipse Temurin (JRE) 25
 Eclipse Temurin (JRE) 8
 Eclipse Temurin 11
 Eclipse Temurin 16
@@ -527,13 +588,20 @@ Eclipse Temurin 19
 Eclipse Temurin 20
 Eclipse Temurin 21
 Eclipse Temurin 22
+Eclipse Temurin 23
+Eclipse Temurin 24
+Eclipse Temurin 25
 Eclipse Temurin 8
 Egnyte Connect
 Egnyte WebEdit
 Egnyte
 Element
+Elevate24
+Elgato Control Center
+Elgato Stream Deck
 Encrypt.me
 EndNote (Combined Definition)
+EndNote 2025
 EndNote 20
 EndNote 21
 EndNote X8
@@ -541,10 +609,15 @@ EndNote X9
 ESET Endpoint Antivirus (Combined Definition)
 ESET Endpoint Antivirus 6
 ESET Endpoint Antivirus 7
-ESET Endpoint Security
+ESET Endpoint Security (Combined Definition)
+ESET Endpoint Security 6
+ESET Endpoint Security 8
 ESET Protect
 Evernote
 ExpanDrive
+ExpressVPN (Combined Definition)
+ExpressVPN (Legacy)
+ExpressVPN
 Extensis Connect Fonts (Combined Definition)
 Extensis Connect Fonts
 Extensis Portfolio 3 Desktop
@@ -560,6 +633,7 @@ Extensis Universal Type Client 6
 Extensis Universal Type Client 7
 Facebook Messenger
 Facebook Workplace Chat
+Falcon Sensor
 Ferdi
 Fetch
 Fiddler Everywhere
@@ -579,17 +653,24 @@ FileMaker Pro 17 Advanced
 FileMaker Pro 18 Advanced
 FileMaker Pro 19
 FileMaker Pro 2023
+FileMaker Pro 2024
+FileMaker Pro 2025
 FileMaker Pro Advanced (Combined Definition)
 FileZilla Client
 Final Cut Library Manager
+FireAlpaca
 Flinto
 Flow
-FlowJo
+FlowJo (Combined Definition)
+FlowJo 10
+FlowJo 11
 Flux
 Flycut
 FontForge
 Fork
+ForkLift (Combined Definition)
 ForkLift 3
+ForkLift 4
 FortiClient (Combined Definition)
 FortiClient 6.0
 FortiClient 6.2
@@ -599,20 +680,28 @@ FortiClient 7.2
 FortiClient 7.4
 Foxit PDF Editor
 Foxit PhantomPDF
+Frame.io Transfer
 Franz
 Freeplane
 Front
 FSMonitor
 FxFactory
+Gather (Combined Definition)
+Gather 1
+Gather 2
 Geneious Prime
 Gephi
+Ghostscript
+Ghostty
 GIMP
 GitHub Atom
 GitHub Desktop
 GitKraken
+Glean
 GNU Emacs
 Google Android File Transfer
 Google Android Studio
+Google Antigravity
 Google Backup and Sync
 Google Chrome
 Google Drive
@@ -629,12 +718,17 @@ Greenfoot
 Gyazo Video
 Gyazo
 HandBrake
+hintview
 HitFilm Express
 HitFilm
+Homebrew
+HoverCam Flex
 HP Easy Admin
+Hype 4
 Hyper
 IBM Aspera Connect
 IBM Aspera Crypt
+IBM Aspera For Desktop
 IBM Notifier
 IBM Semeru Runtime (OpenJ9) (Combined Definition)
 IBM Semeru Runtime (OpenJ9) 11
@@ -645,6 +739,9 @@ IBM Semeru Runtime (OpenJ9) 19
 IBM Semeru Runtime (OpenJ9) 20
 IBM Semeru Runtime (OpenJ9) 21
 IBM Semeru Runtime (OpenJ9) 22
+IBM Semeru Runtime (OpenJ9) 23
+IBM Semeru Runtime (OpenJ9) 24
+IBM Semeru Runtime (OpenJ9) 25
 IBM Semeru Runtime (OpenJ9) 8
 IBM Semeru Runtime (OpenJ9, JRE) (Combined Definition)
 IBM Semeru Runtime (OpenJ9, JRE) 11
@@ -655,21 +752,30 @@ IBM Semeru Runtime (OpenJ9, JRE) 19
 IBM Semeru Runtime (OpenJ9, JRE) 20
 IBM Semeru Runtime (OpenJ9, JRE) 21
 IBM Semeru Runtime (OpenJ9, JRE) 22
+IBM Semeru Runtime (OpenJ9, JRE) 23
+IBM Semeru Runtime (OpenJ9, JRE) 24
+IBM Semeru Runtime (OpenJ9, JRE) 25
 IBM Semeru Runtime (OpenJ9, JRE) 8
 IGV
+IINA
 iLok License Manager
 ImageOptim
+iMazing (Combined Definition)
 iMazing 2
+iMazing 3
 iMazing Profile Editor
 Inkscape
 Insomnia
 Intel Power Gadget
 Intel Unite
 Intermedia Unite
+Isadora (Combined Definition)
 Isadora 3
+Isadora 4
 iShowU Instant
-iStat Menus
+iStat Menus 6
 Iterate Cyberduck
+Iterate Mountain Duck 5
 Iterate Mountain Duck
 iTerm2
 Itsycal
@@ -685,25 +791,33 @@ Jamf Connect Verify
 Jamf Connect
 Jamf DEPNotify
 Jamf Imaging
+Jamf Mass Update Tool
 Jamf NoMAD
 Jamf PPPC Utility
+Jamf Printer Manager
 Jamf Protect
 Jamf Recon
 Jamf Remote
+Jamf Replicator
 Jamf Self Service for macOS
+Jamf Self Service+
+Jamf Status
+Jamf Sync
 Jamf Trust
+Jamf Wallpaper Designer
 JamfCheck
 JetBrains AppCode
 Jetbrains Aqua
 JetBrains CLion
 JetBrains DataGrip
 JetBrains DataSpell
+JetBrains Gateway
 JetBrains GoLand
 JetBrains IntelliJ IDEA Community
-JetBrains IntelliJ IDEA Ultimate
+JetBrains IntelliJ IDEA Unified
 JetBrains PhpStorm
 JetBrains PyCharm Community
-JetBrains PyCharm Professional
+JetBrains PyCharm Unified
 JetBrains Rider
 JetBrains RubyMine
 Jetbrains RustRover
@@ -732,12 +846,17 @@ KeyShot 2023
 KeyShot 2024 Network Rendering
 KeyShot 2024 Viewer
 KeyShot 2024
+KeyShot 2025 Network Rendering
+KeyShot 2025 Viewer
+KeyShot 2025
 KeyShot 9 Network Rendering
 KeyShot 9 Viewer
 KeyShot 9
 KeyShot Network Rendering (Combined Definition)
 KeyShot Viewer (Combined Definition)
+KeyStore Explorer
 Kindle Previewer
+kitty
 Komodo Edit (Combined Definition)
 Komodo Edit 10
 Komodo Edit 11
@@ -755,6 +874,7 @@ LibreOffice
 Lifesize
 Linear
 Lingon (Combined Definition)
+Lingon Pro 10
 Lingon X7
 Lingon X8
 Lingon X9
@@ -771,16 +891,24 @@ LogiTune
 LogMeIn GoToMeeting
 LogMeIn LastPass
 Loom
+Lulu
+Maccy
 MacDown
 MacPass
 MacVector
 Malwarebytes 4
+Mammoth Browser
 MAMP PRO
 MAMP
+Managed Software Center
+Marvel
+MASV
 Mattermost
 Max (Combined Definition)
 Max 7
 Max 8
+Max 9
+Maxon App
 MediaInfo
 Mendeley Desktop
 Mendeley Reference Manager
@@ -788,6 +916,7 @@ MenuMeters
 Mersive Solstice
 Meta Spark Studio
 Microsoft .NET Runtime (Combined Definition)
+Microsoft .NET Runtime 10.0
 Microsoft .NET Runtime 2.0
 Microsoft .NET Runtime 2.1
 Microsoft .NET Runtime 2.2
@@ -797,7 +926,9 @@ Microsoft .NET Runtime 5.0
 Microsoft .NET Runtime 6.0
 Microsoft .NET Runtime 7.0
 Microsoft .NET Runtime 8.0
+Microsoft .NET Runtime 9.0
 Microsoft .NET SDK (Combined Definition)
+Microsoft .NET SDK 10.0
 Microsoft .NET SDK 2.0
 Microsoft .NET SDK 2.1
 Microsoft .NET SDK 2.2
@@ -807,6 +938,8 @@ Microsoft .NET SDK 5.0
 Microsoft .NET SDK 6.0
 Microsoft .NET SDK 7.0
 Microsoft .NET SDK 8.0
+Microsoft .NET SDK 9.0
+Microsoft 365 Copilot
 Microsoft AutoUpdate
 Microsoft Azure Data Studio
 Microsoft Azure Storage Explorer
@@ -831,6 +964,7 @@ Microsoft PowerPoint 2016
 Microsoft PowerPoint 365
 Microsoft PowerShell
 Microsoft Remote Desktop 10
+Microsoft Remote Help
 Microsoft Silverlight
 Microsoft Skype for Business
 Microsoft Skype
@@ -840,6 +974,8 @@ Microsoft Visual Studio (Combined Definition)
 Microsoft Visual Studio 2019
 Microsoft Visual Studio 2022
 Microsoft Visual Studio Code
+Microsoft Windows App (Combined Definition)
+Microsoft Windows App
 Microsoft Word (Combined Definition)
 Microsoft Word 2016
 Microsoft Word 365
@@ -851,10 +987,17 @@ MindManager (Combined Definition)
 MindManager 13
 MindManager 14
 MindManager 23
+MindManager 24
+MindManager 25
 MindNode
 mInstaller
 Miro
+mmhmm (Combined Definition)
+mmhmm Studio
 mmhmm
+MongoDB Compass
+Monotype Connect
+Morphic
 Mothers Ruin Apparency
 Mothers Ruin Suspicious Package
 Mozilla Firefox Developer Edition
@@ -862,8 +1005,10 @@ Mozilla Firefox ESR
 Mozilla Firefox
 Mozilla Thunderbird
 MPEG Streamclip
+Multipass
 MuseScore
 Muzzle
+Napster
 Native Access
 Netskope Client
 Nextcloud Desktop Client
@@ -881,6 +1026,9 @@ Node.js 19
 Node.js 20
 Node.js 21
 Node.js 22
+Node.js 23
+Node.js 24
+Node.js 25
 Node.js 4
 Node.js 5
 Node.js 6
@@ -889,6 +1037,9 @@ Node.js 8
 Node.js 9
 NoMachine Client
 NordLayer
+NordVPN
+North Pole Security Santa
+Notion Calendar
 Notion
 Noun Project
 Nudge
@@ -897,6 +1048,7 @@ Obsidian
 Octave
 Octory
 Okta Verify
+Ollama
 OmniFocus (Combined Definition)
 OmniFocus 2
 OmniFocus 3
@@ -907,13 +1059,18 @@ OmniGraffle 7
 OmniOutliner (Combined Definition)
 OmniOutliner 4
 OmniOutliner 5
+OmniOutliner 6
 OmniPlan (Combined Definition)
 OmniPlan 2
 OmniPlan 3
 OmniPlan 4
 OmniPresence
+Omnissa Horizon Client
 ONLYOFFICE
 OnyX
+OpenAI ChatGPT Atlas
+OpenAI ChatGPT
+OpenAI Codex
 OpenRefine
 OpenVPN Connect
 Opera
@@ -931,6 +1088,10 @@ Oracle Java SE Development Kit 19
 Oracle Java SE Development Kit 20
 Oracle Java SE Development Kit 21
 Oracle Java SE Development Kit 22
+Oracle Java SE Development Kit 23
+Oracle Java SE Development Kit 24
+Oracle Java SE Development Kit 25
+Oracle Java SE Development Kit 26
 Oracle Java SE Development Kit 7
 Oracle Java SE Development Kit 8 (CPU)
 Oracle Java SE Development Kit 8
@@ -954,6 +1115,8 @@ Oracle VirtualBox 5.2
 Oracle VirtualBox 6.0
 Oracle VirtualBox 6.1
 Oracle VirtualBox 7.0
+Oracle VirtualBox 7.1
+Oracle VirtualBox 7.2
 Overflow
 ownCloud Desktop Client
 Pacifist
@@ -972,6 +1135,8 @@ Parallels Client 16
 Parallels Client 17
 Parallels Client 18
 Parallels Client 19
+Parallels Client 20
+Parallels Client 21
 Parallels Desktop (Combined Definition)
 Parallels Desktop 10
 Parallels Desktop 11
@@ -983,6 +1148,9 @@ Parallels Desktop 16
 Parallels Desktop 17
 Parallels Desktop 18
 Parallels Desktop 19
+Parallels Desktop 20
+Parallels Desktop 26
+Parsec
 Pencil2D
 Perimeter 81
 pgAdmin 4
@@ -994,12 +1162,16 @@ Plantronics Hub for Mac
 Podman Desktop
 Poly Lens
 PostgresApp
-Postico
+Postico (Combined Definition)
+Postico 1
+Postico 2
+Postman Enterprise
 Postman
 Praat
 Principle
 Prism (Combined Definition)
 Prism 10
+Prism 11
 Prism 6
 Prism 7
 Prism 8
@@ -1009,6 +1181,7 @@ Processing (Combined Definition)
 Processing 3
 Processing 4
 ProfileCreator
+ProtonVPN
 ProtoPie
 Proxifier 3
 Proxyman
@@ -1027,6 +1200,7 @@ QSR NVivo 10
 QSR NVivo 11
 QSR NVivo 12
 QSR NVivo 14
+QSR NVivo 15
 QSR NVivo
 Qsync
 Querious
@@ -1037,8 +1211,11 @@ Rambox Pro
 Rambox
 Rancher Desktop
 RapidAPI
+Raycast
+Read&Write 7
 ReadCube Papers
 Readdle Spark
+Reaper
 Recipe Robot
 Rectangle
 Reflector (Combined Definition)
@@ -1054,6 +1231,7 @@ RingCentral App
 RingCentral Classic App
 RingCentral Meetings
 RingCentral Phone
+RODE Central
 Rogue Amoeba Audio Hijack
 Rogue Amoeba Farrago (Combined Definition)
 Rogue Amoeba Farrago 2
@@ -1064,18 +1242,24 @@ Rogue Amoeba Loopback
 Root3 Support
 Royal TSX
 RStudio Desktop
+RustDesk
+SageMath
 SAP Icons
+SAP Power Monitor
 SAP Privileges
 Sassafras KeyAccess Client
 ScaleFT
 Screaming Frog SEO Spider
+Scribe Desktop
 Scribus
 SD Card Formatter
 Seashore
+SentinelOne Agent
 Sequel Ace
 Sequel Pro
 Signal
 Signiant App
+Silhouette Studio
 Sketch
 Skim
 Skitch
@@ -1087,6 +1271,7 @@ SMART Product Drivers
 SmartSVN
 Snap Camera
 SnapGene Viewer
+SnapGene
 SoapUI Open Source
 Sonos S1 Controller
 Sonos S2
@@ -1094,7 +1279,7 @@ Splashtop Business
 Splashtop SOS
 Splashtop Streamer
 Spotify
-Stream Deck
+Stats
 StrongDM
 Sublime Text (Combined Definition)
 Sublime Text 3
@@ -1136,6 +1321,11 @@ Tableau Desktop 2023.2
 Tableau Desktop 2023.3
 Tableau Desktop 2024.1
 Tableau Desktop 2024.2
+Tableau Desktop 2024.3
+Tableau Desktop 2025.1
+Tableau Desktop 2025.2
+Tableau Desktop 2025.3
+Tableau Desktop 2026.1
 Tableau Desktop 8.2
 Tableau Desktop 8.3
 Tableau Desktop 9.0
@@ -1144,6 +1334,7 @@ Tableau Desktop 9.2
 Tableau Desktop 9.3
 Tableau Reader
 TablePlus
+Tailscale
 Task Coach
 TeamViewer (Combined Definition)
 TeamViewer 14 Host
@@ -1165,6 +1356,7 @@ TechSmith Camtasia 2021
 TechSmith Camtasia 2022
 TechSmith Camtasia 2023
 TechSmith Camtasia 2024
+TechSmith Camtasia
 TechSmith Snagit (Combined Definition)
 TechSmith Snagit 2018
 TechSmith Snagit 2019
@@ -1174,7 +1366,9 @@ TechSmith Snagit 2022
 TechSmith Snagit 2023
 TechSmith Snagit 2024
 TechSmith Snagit 4
+TechSmith Snagit
 Telegram
+TestNav
 TeX Live Utility
 TeXShop
 TextExpander
@@ -1183,9 +1377,11 @@ The MUT
 The Unarchiver
 Thonny
 Thorium Reader
+TIDAL
 Toggl Desktop
 TOPCAT-FULL
 Tor Browser
+TouchDesigner
 Tower
 Trello
 Tresorit
@@ -1201,9 +1397,12 @@ Trimble SketchUp 2021
 Trimble SketchUp 2022
 Trimble SketchUp 2023
 Trimble SketchUp 2024
+Trimble SketchUp 2025
+Trimble SketchUp 2026
 Tunnelblick
 Tuxera NTFS for Mac
 TweetDeck
+Twingate
 Ultimaker Cura
 Unity (Combined Definition)
 Unity 2017
@@ -1219,6 +1418,7 @@ UTM
 Vagrant
 Vanilla
 VB-Cable
+Vimcal
 Viscosity
 VitalSource Bookshelf
 Vivaldi
@@ -1241,8 +1441,10 @@ VMware Horizon View Client
 VMware Remote Console (Combined Definition)
 VMware Remote Console 11
 VMware Remote Console 12
+VMware Remote Console 13
 VNC Viewer
 VPN Tracker 365
+VStitcher
 VueScan
 VyprVPN
 Vysor
@@ -1255,6 +1457,8 @@ WeChat
 WhatsApp (Combined Definition)
 WhatsApp (old)
 WhatsApp
+Windsurf Editor
+Wings 3D
 Wireshark (Combined Definition)
 Wireshark 1.10
 Wireshark 1.12
@@ -1270,8 +1474,11 @@ Wireshark 3.4
 Wireshark 3.6
 Wireshark 4.0
 Wireshark 4.2
+Wireshark 4.4
+Wireshark 4.6
 Wonder Unit characterizer
 Wonder Unit Storyboarder
+Wrike
 Xmind
 XQuartz
 YakYak
@@ -1283,6 +1490,7 @@ Zoom Client for Meetings
 Zoom Plugin for Microsoft Outlook
 Zoom Rooms
 Zotero
+Zscaler Client Connector
 Zulu OpenJDK (Combined Definition)
 Zulu OpenJDK 10
 Zulu OpenJDK 11
@@ -1297,5 +1505,8 @@ Zulu OpenJDK 19
 Zulu OpenJDK 20
 Zulu OpenJDK 21
 Zulu OpenJDK 22
+Zulu OpenJDK 23
+Zulu OpenJDK 24
+Zulu OpenJDK 25
 Zulu OpenJDK 8
 Zulu OpenJDK 9
