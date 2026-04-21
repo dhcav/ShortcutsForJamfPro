@@ -1,5 +1,5 @@
 {
-  "latestVersion":"1.3",
-  "releaseNotes":"- IMPROVED FUNCTIONALITY: Shortcut now uses Jamf Actions for retrieving Jamf App Installers Software Titles",
+  "latestVersion":"1.5",
+  "releaseNotes":"- IMPROVED FUNCTIONALITY: jamfAppSourcer now uses both Jamf Actions (on Mac) or PocketMDM (on mobile devices) for retrieving Jamf App Installers Software Titles",
   "downloadURL":"https://github.com/dhcav/ShortcutsForJamfPro/raw/main/jamfAppSourcer/jamfAppSourcer.shortcut"
 }
