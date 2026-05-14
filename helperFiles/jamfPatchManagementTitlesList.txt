@@ -362,8 +362,10 @@ Amazon Corretto 22
 Amazon Corretto 23
 Amazon Corretto 24
 Amazon Corretto 25
+Amazon Corretto 26
 Amazon Corretto 8
 Amazon Kindle
+Amazon Kiro IDE
 Amazon WorkSpaces
 Amethyst
 Anki
@@ -579,6 +581,7 @@ Eclipse Temurin (JRE) 22
 Eclipse Temurin (JRE) 23
 Eclipse Temurin (JRE) 24
 Eclipse Temurin (JRE) 25
+Eclipse Temurin (JRE) 26
 Eclipse Temurin (JRE) 8
 Eclipse Temurin 11
 Eclipse Temurin 16
@@ -591,10 +594,12 @@ Eclipse Temurin 22
 Eclipse Temurin 23
 Eclipse Temurin 24
 Eclipse Temurin 25
+Eclipse Temurin 26
 Eclipse Temurin 8
 Egnyte Connect
+Egnyte Desktop App Core (Deprecated)
+Egnyte Desktop App Core
 Egnyte WebEdit
-Egnyte
 Element
 Elevate24
 Elgato Control Center
@@ -707,6 +712,7 @@ Google Chrome
 Google Drive
 Google Earth Pro
 Google Earth
+Google Gemini
 Google Hangouts Chat
 Google Santa
 Google Web Designer
@@ -742,6 +748,7 @@ IBM Semeru Runtime (OpenJ9) 22
 IBM Semeru Runtime (OpenJ9) 23
 IBM Semeru Runtime (OpenJ9) 24
 IBM Semeru Runtime (OpenJ9) 25
+IBM Semeru Runtime (OpenJ9) 26
 IBM Semeru Runtime (OpenJ9) 8
 IBM Semeru Runtime (OpenJ9, JRE) (Combined Definition)
 IBM Semeru Runtime (OpenJ9, JRE) 11
@@ -755,6 +762,7 @@ IBM Semeru Runtime (OpenJ9, JRE) 22
 IBM Semeru Runtime (OpenJ9, JRE) 23
 IBM Semeru Runtime (OpenJ9, JRE) 24
 IBM Semeru Runtime (OpenJ9, JRE) 25
+IBM Semeru Runtime (OpenJ9, JRE) 26
 IBM Semeru Runtime (OpenJ9, JRE) 8
 IGV
 IINA
@@ -896,7 +904,9 @@ Maccy
 MacDown
 MacPass
 MacVector
+Malwarebytes (Combined Definition)
 Malwarebytes 4
+Malwarebytes 5
 Mammoth Browser
 MAMP PRO
 MAMP
@@ -1419,6 +1429,7 @@ Vagrant
 Vanilla
 VB-Cable
 Vimcal
+VirtualBuddy
 Viscosity
 VitalSource Bookshelf
 Vivaldi
@@ -1429,6 +1440,7 @@ VMware Fusion 10
 VMware Fusion 11
 VMware Fusion 12
 VMware Fusion 13
+VMware Fusion 25H2
 VMware Fusion 4
 VMware Fusion 5
 VMware Fusion 6
@@ -1508,5 +1520,6 @@ Zulu OpenJDK 22
 Zulu OpenJDK 23
 Zulu OpenJDK 24
 Zulu OpenJDK 25
+Zulu OpenJDK 26
 Zulu OpenJDK 8
 Zulu OpenJDK 9
